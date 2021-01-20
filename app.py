@@ -5,12 +5,26 @@ import pandas as pd
 import tensorflow as tf
 from tensorflow import keras
 from keras.models import load_model
+from pathlib import Path
+from keras.preprocessing import image
+from keras.preprocessing import image_dataset_from_directory
+import numpy as np
 
 app = Flask(__name__)
+image_size = (128,128)
+images = image_dataset_from_directory(
+  Path('dataset'),
+  validation_split=0.2,
+  subset="training",
+  seed=42,
+  image_size=(image_size),
+  batch_size=32)
 
-def load_model():
+class_names = images.class_names
+
+def load_pokemon_model():
     global model
-    model = load_model("/models/pokemon_trained.h5")
+    model = load_model("models/pokemon_trained.h5")
 
 def process_input(data_url):
     pic_url = data_url
@@ -24,20 +38,22 @@ def process_input(data_url):
 
     predictions = model.predict(img_array)
     score = tf.nn.softmax(predictions[0])
-
-    return (predictions,score)
+    predict = ( "This image most likely belongs to {} with a {:.2f} percent confidence."
+                .format(class_names[np.argmax(score)], 100 * np.max(score)))
+    return (predict)
 
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
     if request.method == 'POST':
         input_data = request.form.to_dict()
-        data = process_input(input_data)
-        value = model.predict(data)
-        return render_template('index.html', result=value)
+        print(input_data)
+        data = process_input(input_data['url_text'])
+        value = data
+        return render_template('index.html', predict=value)
 
     return render_template('index.html')
 
 if __name__ == "__main__":
-    load_model()
+    load_pokemon_model()
     app.run(debug=True)
