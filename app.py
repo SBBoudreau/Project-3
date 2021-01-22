@@ -38,8 +38,9 @@ def process_input(data_url):
 
     predictions = model.predict(img_array)
     score = tf.nn.softmax(predictions[0])
-    predict = ( "This image most likely belongs to {} with a {:.2f} percent confidence."
-                .format(class_names[np.argmax(score)], 100 * np.max(score)))
+    predict = (class_names[np.argmax(score)])
+
+
     return (predict)
 
 
@@ -53,6 +54,17 @@ def index():
         return render_template('index.html', predict=value)
 
     return render_template('index.html')
+
+@app.route('/image', methods=['POST'])
+def image():
+    if request.method == 'POST':
+        image_url = request.get_data(as_text=True)
+        print(image_url)
+        data = process_input(image_url)
+        value = data
+        return jsonify({"prediction":data})
+
+
 
 if __name__ == "__main__":
     load_pokemon_model()
