@@ -1,21 +1,22 @@
 # Project-3
-Where's Waldo
-
 Group Name:
-Waldo
+Got to catch ‘em all!
 
 Topic: 
-Where’s Waldo
+Pokemon
 
 Data Sources:
-https://github.com/vc1492a/Hey-Waldo
+https://www.kaggle.com/thedagger/pokemon-generation-one
+https://github.com/nagarajbhat/dash-pokemon/blob/master/data/pokemon.csv
+
 
 Type of ML Analysis:
 Categorical 
 
 Potential models to be used:
-RCNN
+CNN
 RCNN with Inception v2 model
+
 
 
 Ideas for visualizations that you would like to include:

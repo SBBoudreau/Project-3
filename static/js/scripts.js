@@ -66,4 +66,72 @@
     });
   
   })(jQuery); // End of use strict
-  
+
+
+    
+    
+    $('#clickMe').on('click', event=>{
+      var inputVal = $('#url_image').val()
+      console.log(inputVal)
+      var default_img = "../static/img/unknown_pokemon.jpg";
+      if (inputVal != "") {
+            document.getElementById("imageid").src=inputVal;
+            document.getElementById("second_img").src=inputVal
+            $.ajax({
+              method:'POST',
+              data:inputVal,
+              url: "/image"
+            }).done(function(data){
+              //console.log(data)
+              $("#pokemon_pred").text(data["prediction"])
+              $("#portfolioModal3Label").text(data["prediction"])
+              get_pokemon_info(data["prediction"]);
+            })
+          } else {
+            document.getElementById("imageid").src= default_img;
+          }
+
+})
+
+
+function get_pokemon_info(d){
+
+  d3.csv("../static/data/pokemon.csv",function(data) {
+        if(data.name===d){
+          console.log(data.Sp_Atk)
+          //CODE FOR GAUGE HERE
+          var data = [
+            {
+              x: ['HP', 'Attack', 'Defense','Special Attack','Special Defense','Speed'],
+              y: [data.hp,data.attack,data.defense,data.sp_attack,data.sp_defense,data.speed],
+              type: 'bar',
+              text:[data.hp,data.attack,data.defense,data.sp_attack,data.sp_defense,data.speed],
+              textposition:'auto'
+            }
+          ];
+
+          var layout = { 
+            font: {size: 16},
+            xaxis: {
+                  showgrid: false
+                  },
+            yaxis: {
+                  showgrid: false,
+                  showline: true,
+                  showticklabels:false,
+                  visible:false
+                  }};
+          
+          var config = {responsive: true}
+          
+          
+          Plotly.newPlot('stats', data,layout, config);
+
+
+
+
+
+        }
+  });
+
+}
