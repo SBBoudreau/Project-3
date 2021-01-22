@@ -44,13 +44,19 @@
                 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img class="d-block w-90" src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/152.png" alt="First slide">
+                        <img class="d-block w-90" src="../dataset/Weedle/28da3f66f5f94b2cbdca968d79be0a4d.jpg" alt="Weedle">
                       </div>
                       <div class="carousel-item">
-                        <img class="d-block w-90" src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/036.png" alt="Second slide">
+                        <img class="d-block w-90" src="../dataset/Clefairy/196bd52a0089460ba32cb58eb89f52fe.jpg" alt="Clefairy">
                       </div>
                       <div class="carousel-item">
-                        <img class="d-block w-90" src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/216.png" alt="Third slide">
+                        <img class="d-block w-90" src="../dataset/Wartortle/0c1c65e362264d0f8064db8e73fd3650.jpg" alt="Wartortle">
+                      </div>
+                      <div class="carousel-item">
+                        <img class="d-block w-90" src="../dataset/Pikachu/00000008.jpg" alt="Pikachu">
+                      </div>
+                      <div class="carousel-item">
+                        <img class="d-block w-90" src="../dataset/Charmander/00000006.png" alt="Charmander">
                       </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -126,7 +132,7 @@
                 </div>
                 <div class="row">  
                     <p class="lead">The model consists of three convolutional blocks which act as filters that are used to train the model which results in highly specific features that the model detects to classify the image. We used the Adam (Adaptive Moment Estimation) optimizer, which is known to have greater accuracy in classification and segmentation and “Categorical Crossentropy” loss function, which is used when there are two or more label classes. We have 149 classes, or Pokémon types. You can view the model summary below: <br></br> </p>
-                    <img class="img-container"  .img-container { text-align: center;} width="40%" height="40%" text-align ="center" src="../static/img/model_sum.png"><br></br>
+                    <center><img class="img-container"  .img-container { block-align: center;} width="45%" height="100%" text-align ="center" src="../static/img/model_sum.png"><br></br></center>
                 </div>
                 <div class="row">  
                     <p class="lead">To train the model, we split the data into approx. 80% training and 20% validation images to optimize the classification and set Epochs at 15. Images used to test data were taken from URL images online to evaluate the accuracy of the model based on images the model had not been exposed to yet. This allowed us to determine the number of epochs needed based on the ratio of validation accuracy and training accuracy.</p>
