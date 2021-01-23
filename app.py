@@ -28,7 +28,9 @@ def load_pokemon_model():
 
 def process_input(data_url):
     pic_url = data_url
-    pic_path = tf.keras.utils.get_file("loaded_image",origin=pic_url)
+    random_name = str(np.random.randint(5**5))
+    
+    pic_path = tf.keras.utils.get_file(random_name,origin=pic_url)
     img = keras.preprocessing.image.load_img(
         pic_path, target_size=(128,128)
     )
@@ -37,10 +39,12 @@ def process_input(data_url):
     img_array = tf.expand_dims(img_array, 0) # Create a batch
 
     predictions = model.predict(img_array)
-    score = tf.nn.softmax(predictions[0])
-    predict = (class_names[np.argmax(score)])
+    score = round(100 * np.max(tf.nn.softmax(predictions[0])),2)
 
+    predict = (f"This image most likely belongs to {class_names[np.argmax(score)]} with a {score} percent confidence.")
 
+    print(predict)
+    
     return (predict)
 
 

@@ -82,10 +82,13 @@
               data:inputVal,
               url: "/image"
             }).done(function(data){
-              //console.log(data)
-              $("#pokemon_pred").text(data["prediction"])
-              $("#portfolioModal3Label").text(data["prediction"])
-              get_pokemon_info(data["prediction"]);
+              console.log(data)
+              var sentence = data["prediction"]
+              var split_pred = sentence.split(" ");
+              $("#pokemon_pred").text(sentence)
+              $("#portfolioModal3Label").text(split_pred[6])
+              console.log(split_pred[6])
+              get_pokemon_info(split_pred[6]);
             })
           } else {
             document.getElementById("imageid").src= default_img;
@@ -98,7 +101,7 @@ function get_pokemon_info(d){
 
   d3.csv("../static/data/pokemon.csv",function(data) {
         if(data.name===d){
-          console.log(data.Sp_Atk)
+          //console.log(data.Sp_Atk)
           //CODE FOR GAUGE HERE
           var data = [
             {
@@ -133,5 +136,14 @@ function get_pokemon_info(d){
 
         }
   });
+
+  d3.csv("../static/data/pokemon2.csv",function(data_des) {
+    if(data_des.name===d){
+      $("#pokedescription").text(data_des.description);
+
+    }
+
+  });
+
 
 }
