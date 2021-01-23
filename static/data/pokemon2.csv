@@ -1,0 +1,802 @@
+﻿attack,capture_rate,classfication,defense,hp,name,percentage_male,pokedex_number,sp_attack,sp_defense,speed,type1,type2,weight_kg,generation,is_legendary,description
+49,45,Seed PokÃ©mon,49,45,Bulbasaur,88.1,1,65,65,45,grass,poison,6.9,1,0,There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.
+62,45,Seed PokÃ©mon,63,60,Ivysaur,88.1,2,80,80,60,grass,poison,13,1,0,"When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs."
+100,45,Seed PokÃ©mon,123,80,Venusaur,88.1,3,122,120,80,grass,poison,100,1,0,Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.
+52,45,Lizard PokÃ©mon,43,39,Charmander,88.1,4,60,50,65,fire,,8.5,1,0,"It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail."
+64,45,Flame PokÃ©mon,58,58,Charmeleon,88.1,5,80,65,80,fire,,19,1,0,"It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws."
+104,45,Flame PokÃ©mon,78,78,Charizard,88.1,6,159,115,100,fire,flying,90.5,1,0,It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.
+48,45,Tiny Turtle PokÃ©mon,65,44,Squirtle,88.1,7,50,64,43,water,,9,1,0,"When it retracts its long neck into its shell, it squirts out water with vigorous force."
+63,45,Turtle PokÃ©mon,80,59,Wartortle,88.1,8,65,80,58,water,,22.5,1,0,"It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old."
+103,45,Shellfish PokÃ©mon,120,79,Blastoise,88.1,9,135,115,78,water,,85.5,1,0,"It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell."
+30,255,Worm PokÃ©mon,35,45,Caterpie,50,10,20,20,45,bug,,2.9,1,0,"For protection, it releases a horrible stench from the antenna on its head to drive away enemies."
+20,120,Cocoon PokÃ©mon,55,50,Metapod,50,11,25,25,30,bug,,9.9,1,0,"It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack"
+45,45,Butterfly PokÃ©mon,50,60,Butterfree,50,12,90,80,70,bug,flying,32,1,0,There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.
+35,255,Hairy PokÃ©mon,30,40,Weedle,50,13,20,20,50,bug,poison,3.2,1,0,Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.
+25,120,Cocoon PokÃ©mon,50,45,Kakuna,50,14,25,25,35,bug,poison,10,1,0,"Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy."
+150,45,Poison Bee PokÃ©mon,40,65,Beedrill,50,15,15,80,145,bug,poison,29.5,1,0,It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.
+45,255,Tiny Bird PokÃ©mon,40,40,Pidgey,50,16,35,35,56,normal,flying,1.8,1,0,"Very docile. If attacked, it will often kick up sand to protect itself rather than fight back"
+60,120,Bird PokÃ©mon,55,63,Pidgeotto,50,17,50,50,71,normal,flying,30,1,0,This Pokémon is full of vitality. It constantly flies around its large territory in search of prey
+80,45,Bird PokÃ©mon,80,83,Pidgeot,50,18,135,80,121,normal,flying,39.5,1,0,"This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons."
+56,255,Mouse PokÃ©mon,35,30,Rattata,50,19,25,35,72,normal,dark,,1,0,"Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area."
+71,127,Mouse PokÃ©mon,70,75,Raticate,50,20,40,80,77,normal,dark,,1,0,"Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey."
+60,255,Tiny Bird PokÃ©mon,30,40,Spearow,50,21,31,31,70,normal,flying,2,1,0,"Inept at flying high. However, it can fly around very fast to protect its territory."
+90,90,Beak PokÃ©mon,65,65,Fearow,50,22,61,61,100,normal,flying,38,1,0,"A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly."
+60,255,Snake PokÃ©mon,44,35,Ekans,50,23,40,54,55,poison,,6.9,1,0,"The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest."
+95,90,Cobra PokÃ©mon,69,60,Arbok,50,24,65,79,80,poison,,65,1,0,he frightening patterns on its belly have been studied. Six variations have been confirmed.
+55,190,Mouse PokÃ©mon,40,35,Pikachu,50,25,50,50,90,electric,,6,1,0,Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy
+85,75,Mouse PokÃ©mon,50,60,Raichu,50,26,95,85,110,electric,electric,,1,0,Its long tail serves as a ground to protect itself from its own high-voltage power.
+75,255,Mouse PokÃ©mon,90,50,Sandshrew,50,27,10,35,40,ground,ice,,1,0,"It loves to bathe in the grit of dry, sandy areas. By sand bathing, the Pokémon rids itself of dirt and moisture clinging to its body."
+100,90,Mouse PokÃ©mon,120,75,Sandslash,50,28,25,65,65,ground,ice,,1,0,"The drier the area Sandslash lives in, the harder and smoother the Pokémon’s spikes will feel when touched."
+47,235,Poison Pin PokÃ©mon,52,55,Nidoranâ™€,0,29,40,40,41,poison,,7,1,0,#N/A
+62,120,Poison Pin PokÃ©mon,67,70,Nidorina,0,30,55,55,56,poison,,20,1,0,The horn on its head has atrophied. It’s thought that this happens so Nidorina’s children won’t get poked while their mother is feeding them.
+92,45,Drill PokÃ©mon,87,90,Nidoqueen,0,31,75,85,76,poison,ground,60,1,0,"Nidoqueen is better at defense than offense. With scales like armor, this Pokémon will shield its children from any kind of attack."
+57,235,Poison Pin PokÃ©mon,40,46,Nidoranâ™‚,100,32,40,40,50,poison,,9,1,0,#N/A
+72,120,Poison Pin PokÃ©mon,57,61,Nidorino,100,33,55,55,65,poison,,19.5,1,0,"With a horn that’s harder than diamond, this Pokémon goes around shattering boulders as it searches for a moon stone."
+102,45,Drill PokÃ©mon,77,81,Nidoking,100,34,85,75,85,poison,ground,62,1,0,"When it goes on a rampage, it’s impossible to control. But in the presence of a Nidoqueen it’s lived with for a long time, Nidoking calms down."
+45,150,Fairy PokÃ©mon,48,70,Clefairy,24.6,35,60,65,35,fairy,,7.5,1,0,It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.
+70,25,Fairy PokÃ©mon,73,95,Clefable,24.6,36,95,90,60,fairy,,40,1,0,"A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people."
+41,190,Fox PokÃ©mon,40,38,Vulpix,24.6,37,50,65,65,fire,ice,,1,0,"While young, it has six gorgeous tails. When it grows, several new tails are sprouted."
+67,75,Fox PokÃ©mon,75,73,Ninetales,24.6,38,81,100,109,fire,ice,,1,0,"It is said to live 1,000 years, and each of its tails is loaded with supernatural powers."
+45,170,Balloon PokÃ©mon,20,115,Jigglypuff,24.6,39,45,25,20,normal,fairy,5.5,1,0,"Jigglypuff has top-notch lung capacity, even by comparison to other Pokémon. It won’t stop singing its lullabies until its foes fall asleep."
+70,50,Balloon PokÃ©mon,45,140,Wigglytuff,24.6,40,85,50,45,normal,fairy,12,1,0,"The more air it takes in, the more it inflates. If opponents catch it in a bad mood, it will inflate itself to an enormous size to intimidate them."
+45,255,Bat PokÃ©mon,35,40,Zubat,50,41,30,40,55,poison,flying,7.5,1,0,"It emits ultrasonic waves from its mouth to check its surroundings. Even in tight caves, Zubat flies around with skill."
+80,90,Bat PokÃ©mon,70,75,Golbat,50,42,65,75,90,poison,flying,55,1,0,"It loves to drink other creatures’ blood. It’s said that if it finds others of its kind going hungry, it sometimes shares the blood it’s gathered."
+50,255,Weed PokÃ©mon,55,45,Oddish,50,43,75,65,30,grass,poison,5.4,1,0,"If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds."
+65,120,Weed PokÃ©mon,70,60,Gloom,50,44,85,75,40,grass,poison,8.6,1,0,Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles.
+80,45,Flower PokÃ©mon,85,75,Vileplume,50,45,110,90,50,grass,poison,18.6,1,0,"It has the world’s largest petals. With every step, the petals shake out heavy clouds of toxic pollen."
+70,190,Mushroom PokÃ©mon,55,35,Paras,50,46,45,55,25,bug,grass,5.4,1,0,Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.
+95,75,Mushroom PokÃ©mon,80,60,Parasect,50,47,60,80,30,bug,grass,29.5,1,0,The bug host is drained of energy by the mushroom on its back. The mushroom appears to do all the thinking.
+55,190,Insect PokÃ©mon,50,60,Venonat,50,48,40,55,45,bug,poison,30,1,0,"Its large eyes act as radar. In a bright place, you can see that they are clusters of many tiny eyes."
+65,75,Poison Moth PokÃ©mon,60,70,Venomoth,50,49,90,75,90,bug,poison,12.5,1,0,The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact.
+55,255,Mole PokÃ©mon,30,10,Diglett,50,50,35,45,90,ground,ground,,1,0,"If a Diglett digs through a field, it leaves the soil perfectly tilled and ideal for planting crops."
+100,50,Mole PokÃ©mon,60,35,Dugtrio,50,51,50,70,110,ground,ground,,1,0,A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground.
+35,255,Scratch Cat PokÃ©mon,35,40,Meowth,50,52,50,40,90,normal,dark,,1,0,"t loves to collect shiny things. If it’s in a good mood, it might even let its Trainer have a look at its hoard of treasures."
+60,90,Classy Cat PokÃ©mon,60,65,Persian,50,53,75,65,115,normal,dark,,1,0,"Getting this prideful Pokémon to warm up to you takes a lot of effort, and it will claw at you the moment it gets annoyed."
+52,190,Duck PokÃ©mon,48,50,Psyduck,50,54,65,50,55,water,,19.6,1,0,"Psyduck is constantly beset by headaches. If the Pokémon lets its strange power erupt, apparently the pain subsides for a while."
+82,75,Duck PokÃ©mon,78,80,Golduck,50,55,95,80,85,water,,76.6,1,0,"This Pokémon lives in gently flowing rivers. It paddles through the water with its long limbs, putting its graceful swimming skills on display."
+80,190,Pig Monkey PokÃ©mon,35,40,Mankey,50,56,35,45,70,fighting,,28,1,0,An agile Pokémon that lives in trees. It angers easily and will not hesitate to attack anything.
+105,75,Pig Monkey PokÃ©mon,60,65,Primeape,50,57,60,70,95,fighting,,32,1,0,It stops being angry only when nobody else is around. To view this moment is very difficult.
+70,190,Puppy PokÃ©mon,45,55,Growlithe,75.4,58,70,50,60,fire,,19,1,0,It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.
+110,75,Legendary PokÃ©mon,80,90,Arcanine,75.4,59,100,80,95,fire,,155,1,0,"The sight of it running over 6,200 miles in a single day and night has captivated many people."
+50,255,Tadpole PokÃ©mon,40,40,Poliwag,50,60,40,40,90,water,,12.4,1,0,"For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon’s innards showing through the skin."
+65,120,Tadpole PokÃ©mon,65,65,Poliwhirl,50,61,50,50,90,water,,20,1,0,Staring at the swirl on its belly causes drowsiness. This trait of Poliwhirl’s has been used in place of lullabies to get children to go to sleep.
+95,45,Tadpole PokÃ©mon,95,90,Poliwrath,50,62,70,90,70,water,fighting,54,1,0,"ts body is solid muscle. When swimming through cold seas, Poliwrath uses its impressive arms to smash through drift ice and plow forward."
+20,200,Psi PokÃ©mon,15,25,Abra,75.4,63,105,55,90,psychic,,19.5,1,0,This Pokémon uses its psychic powers while it sleeps. The contents of Abra’s dreams affect the powers that the Pokémon wields.
+35,100,Psi PokÃ©mon,30,40,Kadabra,75.4,64,120,70,105,psychic,,56.5,1,0,"Using its psychic power, Kadabra levitates as it sleeps. It uses its springy tail as a pillow."
+50,50,Psi PokÃ©mon,65,55,Alakazam,75.4,65,175,105,150,psychic,,48,1,0,"It has an incredibly high level of intelligence. Some say that Alakazam remembers everything that ever happens to it, from birth till death."
+80,180,Superpower PokÃ©mon,50,70,Machop,75.4,66,35,35,35,fighting,,19.5,1,0,"Its whole body is composed of muscles. Even though it’s the size of a human child, it can hurl 100 grown-ups."
+100,90,Superpower PokÃ©mon,70,80,Machoke,75.4,67,50,60,45,fighting,,70.5,1,0,"Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions."
+130,45,Superpower PokÃ©mon,80,90,Machamp,75.4,68,65,85,55,fighting,,130,1,0,It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.
+75,255,Flower PokÃ©mon,35,50,Bellsprout,50,69,70,30,40,grass,poison,4,1,0,Prefers hot and humid places. It ensnares tiny bugs with its vines and devours them.
+90,120,Flycatcher PokÃ©mon,50,65,Weepinbell,50,70,85,45,55,grass,poison,6.4,1,0,"When hungry, it swallows anything that moves. Its hapless prey is dissolved by strong acids."
+105,45,Flycatcher PokÃ©mon,65,80,Victreebel,50,71,100,70,70,grass,poison,15.5,1,0,"Lures prey with the sweet aroma of honey. Swallowed whole, the prey is dissolved in a day, bones and all."
+40,190,Jellyfish PokÃ©mon,35,40,Tentacool,50,72,50,100,70,water,poison,45.5,1,0,Tentacool is not a particularly strong swimmer. It drifts across the surface of shallow seas as it searches for prey.
+70,60,Jellyfish PokÃ©mon,65,80,Tentacruel,50,73,80,120,100,water,poison,55,1,0,"When the red orbs on Tentacruel’s head glow brightly, watch out. The Pokémon is about to fire off a burst of ultrasonic waves."
+80,255,Rock PokÃ©mon,100,40,Geodude,50,74,30,30,20,rock,ground,,1,0,"Commonly found near mountain trails and the like. If you step on one by accident, it gets angry."
+95,120,Rock PokÃ©mon,115,55,Graveler,50,75,45,45,35,rock,ground,,1,0,"Often seen rolling down mountain trails. Obstacles are just things to roll straight over, not avoid."
+120,45,Megaton PokÃ©mon,130,80,Golem,50,76,55,65,45,rock,ground,,1,0,"Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it’s exposed to air."
+85,190,Fire Horse PokÃ©mon,55,50,Ponyta,50,77,65,65,90,fire,,30,1,0,"It can’t run properly when it’s newly born. As it races around with others of its kind, its legs grow stronger."
+100,60,Fire Horse PokÃ©mon,70,65,Rapidash,50,78,80,80,105,fire,,95,1,0,"This Pokémon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind."
+65,190,Dopey PokÃ©mon,65,90,Slowpoke,50,79,40,40,15,water,psychic,36,1,0,"Slow-witted and oblivious, this Pokémon won’t feel any pain if its tail gets eaten. It won’t notice when its tail grows back, either."
+75,75,Hermit Crab PokÃ©mon,180,95,Slowbro,50,80,130,80,30,water,psychic,78.5,1,0,Slowpoke became Slowbro when a Shellder bit on to its tail. Sweet flavors seeping from the tail make the Shellder feel as if its life is a dream.
+35,190,Magnet PokÃ©mon,70,25,Magnemite,,81,95,55,45,electric,steel,6,1,0,"At times, Magnemite runs out of electricity and ends up on the ground. If you give batteries to a grounded Magnemite, it’ll start moving again."
+60,60,Magnet PokÃ©mon,95,50,Magneton,,82,120,70,70,electric,steel,60,1,0,This Pokémon is three Magnemite that have linked together. Magneton sends out powerful radio waves to study its surroundings.
+90,45,Wild Duck PokÃ©mon,55,52,Farfetch'd,50,83,58,62,60,normal,flying,15,1,0,#N/A
+85,190,Twin Bird PokÃ©mon,45,35,Doduo,50,84,35,35,75,normal,flying,39.2,1,0,"Its short wings make flying difficult. Instead, this Pokémon runs at high speed on developed legs."
+110,45,Triple Bird PokÃ©mon,70,60,Dodrio,50,85,60,60,110,normal,flying,85.2,1,0,One of Doduo’s two heads splits to form a unique species. It runs close to 40 mph in prairies.
+45,190,Sea Lion PokÃ©mon,55,65,Seel,50,86,45,70,45,water,,90,1,0,Loves freezing-cold conditions. Relishes swimming in a frigid climate of around 14 degrees Fahrenheit.
+70,75,Sea Lion PokÃ©mon,80,90,Dewgong,50,87,70,95,70,water,ice,120,1,0,"Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters."
+80,190,Sludge PokÃ©mon,50,80,Grimer,50,88,40,50,25,poison,poison,,1,0,"Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters."
+105,75,Sludge PokÃ©mon,75,105,Muk,50,89,65,100,50,poison,poison,,1,0,"Smells so awful, it can cause fainting. Through degeneration of its nose, it lost its sense of smell."
+65,190,Bivalve PokÃ©mon,100,30,Shellder,50,90,45,25,40,water,,4,1,0,It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.
+95,60,Bivalve PokÃ©mon,180,50,Cloyster,50,91,85,45,70,water,ice,132.5,1,0,"Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking."
+35,190,Gas PokÃ©mon,30,30,Gastly,50,92,100,35,80,ghost,poison,0.1,1,0,"Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison."
+50,90,Gas PokÃ©mon,45,45,Haunter,50,93,115,55,95,ghost,poison,0.1,1,0,"Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes."
+65,45,Shadow PokÃ©mon,80,60,Gengar,50,94,170,95,130,ghost,poison,40.5,1,0,"On the night of a full moon, if shadows move on their own and laugh, it must be Gengar’s doing."
+45,45,Rock Snake PokÃ©mon,160,35,Onix,50,95,30,45,70,rock,ground,210,1,0,"As it digs through the ground, it absorbs many hard objects. This is what makes its body so solid."
+48,190,Hypnosis PokÃ©mon,45,60,Drowzee,50,96,43,90,42,psychic,,32.4,1,0,"If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past."
+73,75,Hypnosis PokÃ©mon,70,85,Hypno,50,97,73,115,67,psychic,,75.6,1,0,Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.
+105,225,River Crab PokÃ©mon,90,30,Krabby,50,98,25,25,50,water,,6.5,1,0,It can be found near the sea. The large pincers grow back if they are torn out of their sockets.
+130,60,Pincer PokÃ©mon,115,55,Kingler,50,99,50,50,75,water,,60,1,0,"Its large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move."
+30,190,Ball PokÃ©mon,50,40,Voltorb,,100,55,55,100,electric,,10.4,1,0,It is said to camouflage itself as a Poké Ball. It will self-destruct with very little stimulus.
+50,60,Ball PokÃ©mon,70,60,Electrode,,101,80,80,150,electric,,66.6,1,0,Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.
+40,90,Egg PokÃ©mon,80,60,Exeggcute,50,102,60,45,40,grass,psychic,2.5,1,0,"Though it may look like it’s just a bunch of eggs, it’s a proper Pokémon. Exeggcute communicates with others of its kind via telepathy, apparently."
+105,45,Coconut PokÃ©mon,85,95,Exeggutor,50,103,125,75,45,grass,psychic,,1,0,Each of Exeggutor’s three heads is thinking different thoughts. The three don’t seem to be very interested in one another.
+50,190,Lonely PokÃ©mon,95,50,Cubone,50,104,40,50,35,ground,,6.5,1,0,"When the memory of its departed mother brings it to tears, its cries echo mournfully within the skull it wears on its head."
+80,75,Bone Keeper PokÃ©mon,110,60,Marowak,50,105,50,80,45,ground,fire,,1,0,"This Pokémon overcame its sorrow to evolve a sturdy new body. Marowak faces its opponents bravely, using a bone as a weapon."
+120,45,Kicking PokÃ©mon,53,50,Hitmonlee,100,106,35,110,87,fighting,,49.8,1,0,This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position.
+105,45,Punching PokÃ©mon,79,50,Hitmonchan,100,107,35,110,76,fighting,,50.2,1,0,"Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn."
+55,45,Licking PokÃ©mon,75,90,Lickitung,50,108,60,75,30,normal,,65.5,1,0,"If this Pokémon’s sticky saliva gets on you and you don’t clean it off, an intense itch will set in. The itch won’t go away, either."
+65,190,Poison Gas PokÃ©mon,95,40,Koffing,50,109,60,45,35,poison,,1,1,0,"Its body is full of poisonous gas. It floats into garbage dumps, seeking out the fumes of raw, rotting trash."
+90,60,Poison Gas PokÃ©mon,120,65,Weezing,50,110,85,70,60,poison,,9.5,1,0,It mixes gases between its two bodies. It’s said that these Pokémon were seen all over the Galar region back in the day.
+85,120,Spikes PokÃ©mon,95,80,Rhyhorn,50,111,30,30,25,ground,rock,115,1,0,"Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging tackles."
+130,60,Drill PokÃ©mon,120,105,Rhydon,50,112,45,45,40,ground,rock,120,1,0,It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn.
+5,30,Egg PokÃ©mon,5,250,Chansey,0,113,35,105,50,normal,,34.6,1,0,The egg Chansey carries is not only delicious but also packed with nutrition. It’s used as a high-class cooking ingredient.
+55,45,Vine PokÃ©mon,115,65,Tangela,50,114,100,40,60,grass,,35,1,0,"Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off, this Pokémon’s true appearance remains a mystery."
+125,45,Parent PokÃ©mon,100,105,Kangaskhan,0,115,60,100,100,normal,,80,1,0,"Although it’s carrying its baby in a pouch on its belly, Kangaskhan is swift on its feet. It intimidates its opponents with quick jabs."
+40,225,Dragon PokÃ©mon,70,30,Horsea,50,116,70,25,60,water,,8,1,0,"Horsea makes its home in oceans with gentle currents. If this Pokémon is under attack, it spits out pitch-black ink and escapes."
+65,75,Dragon PokÃ©mon,95,55,Seadra,50,117,95,45,85,water,,25,1,0,"It’s the males that raise the offspring. While Seadra are raising young, the spines on their backs secrete thicker and stronger poison."
+67,225,Goldfish PokÃ©mon,60,45,Goldeen,50,118,35,50,63,water,,15,1,0,"Its dorsal, pectoral, and tail fins wave elegantly in water. That is why it is known as the Water Dancer."
+92,60,Goldfish PokÃ©mon,65,80,Seaking,50,119,65,80,68,water,,39,1,0,"In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors."
+45,225,Starshape PokÃ©mon,55,30,Staryu,,120,70,55,85,water,,34.5,1,0,"If you visit a beach at the end of summer, you’ll be able to see groups of Staryu lighting up in a steady rhythm."
+75,60,Mysterious PokÃ©mon,85,60,Starmie,,121,100,85,115,water,psychic,80,1,0,This Pokémon has an organ known as its core. The organ glows in seven colors when Starmie is unleashing its potent psychic powers.
+45,45,Barrier PokÃ©mon,65,40,Mr. Mime,50,122,100,120,90,psychic,fairy,54.5,1,0,#N/A
+110,45,Mantis PokÃ©mon,80,70,Scyther,50,123,55,80,105,bug,flying,56,1,0,"As Scyther fights more and more battles, its scythes become sharper and sharper. With a single slice, Scyther can fell a massive tree."
+50,45,Humanshape PokÃ©mon,35,65,Jynx,0,124,115,95,95,ice,psychic,40.6,1,0,"In certain parts of Galar, Jynx was once feared and worshiped as the Queen of Ice."
+83,45,Electric PokÃ©mon,57,65,Electabuzz,75.4,125,95,85,105,electric,,30,1,0,Many power plants keep Ground-type Pokémon around as a defense against Electabuzz that come seeking electricity.
+95,45,Spitfire PokÃ©mon,57,65,Magmar,75.4,126,100,85,93,fire,,44.5,1,0,Magmar dispatches its prey with fire. But it regrets this habit once it realizes that it has burned its intended prey to a charred crisp.
+155,45,Stagbeetle PokÃ©mon,120,65,Pinsir,50,127,65,90,105,bug,,55,1,0,"These Pokémon judge one another based on pincers. Thicker, more impressive pincers make for more popularity with the opposite gender."
+100,45,Wild Bull PokÃ©mon,95,75,Tauros,100,128,40,70,110,normal,,88.4,1,0,"When Tauros begins whipping itself with its tails, it’s a warning that the Pokémon is about to charge with astounding speed."
+10,255,Fish PokÃ©mon,55,20,Magikarp,50,129,15,20,80,water,,10,1,0,It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world.
+155,45,Atrocious PokÃ©mon,109,95,Gyarados,50,130,70,130,81,water,flying,235,1,0,It has an extremely aggressive nature. The Hyper Beam it shoots from its mouth totally incinerates all targets.
+85,45,Transport PokÃ©mon,80,130,Lapras,50,131,85,95,60,water,ice,220,1,0,"A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it."
+48,35,Transform PokÃ©mon,48,48,Ditto,,132,48,48,48,normal,,4,1,0,"It can reconstitute its entire cellular structure to change into what it sees, but it returns to normal when it relaxes."
+55,45,Evolution PokÃ©mon,50,55,Eevee,88.1,133,45,65,55,normal,,6.5,1,0,It has the ability to alter the composition of its body to suit its surrounding environment.
+65,45,Bubble Jet PokÃ©mon,60,130,Vaporeon,88.1,134,110,95,65,water,,29,1,0,"When Vaporeon’s fins begin to vibrate, it is a sign that rain will come within a few hours."
+65,45,Lightning PokÃ©mon,60,65,Jolteon,88.1,135,110,95,130,electric,,24.5,1,0,"If it is angered or startled, the fur all over its body bristles like sharp needles that pierce foes."
+130,45,Flame PokÃ©mon,60,65,Flareon,88.1,136,95,110,65,fire,,25,1,0,"Once it has stored up enough heat, this Pokémon’s body temperature can reach up to 1,700 degrees Fahrenheit."
+60,45,Virtual PokÃ©mon,70,65,Porygon,,137,85,75,40,normal,,36.5,1,0,State-of-the-art technology was used to create Porygon. It was the first artificial Pokémon to be created via computer programming.
+40,45,Spiral PokÃ©mon,100,35,Omanyte,88.1,138,90,55,35,rock,water,7.5,1,0,"Because some Omanyte manage to escape after being restored or are released into the wild by people, this species is becoming a problem."
+60,45,Spiral PokÃ©mon,125,70,Omastar,88.1,139,115,70,55,rock,water,35,1,0,"Weighed down by a large and heavy shell, Omastar couldn’t move very fast. Some say it went extinct because it was unable to catch food."
+80,45,Shellfish PokÃ©mon,90,30,Kabuto,88.1,140,55,45,55,rock,water,11.5,1,0,"This species is almost entirely extinct. Kabuto molt every three days, making their shells harder and harder."
+115,45,Shellfish PokÃ©mon,105,60,Kabutops,88.1,141,65,70,80,rock,water,40.5,1,0,Kabutops slices its prey apart and sucks out the fluids. The discarded body parts become food for other Pokémon.
+135,45,Fossil PokÃ©mon,85,80,Aerodactyl,88.1,142,70,95,150,rock,flying,59,1,0,This is a ferocious Pokémon from ancient times. Apparently even modern technology is incapable of producing a perfectly restored specimen.
+110,25,Sleeping PokÃ©mon,65,160,Snorlax,88.1,143,65,110,30,normal,,460,1,0,"It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep."
+85,3,Freeze PokÃ©mon,100,90,Articuno,,144,95,125,85,ice,flying,55.4,1,1,"It’s said that this Pokémon’s beautiful blue wings are made of ice. Articuno flies over snowy mountains, its long tail fluttering along behind it."
+90,3,Electric PokÃ©mon,85,90,Zapdos,,145,125,90,100,electric,flying,52.6,1,1,This Pokémon has complete control over electricity. There are tales of Zapdos nesting in the dark depths of pitch-black thunderclouds.
+100,3,Flame PokÃ©mon,90,90,Moltres,,146,125,85,90,fire,flying,60,1,1,"It’s one of the legendary bird Pokémon. When Moltres flaps its flaming wings, they glimmer with a dazzling red glow."
+64,45,Dragon PokÃ©mon,45,41,Dratini,50,147,50,50,50,dragon,,3.3,1,0,"Dratini dwells near bodies of rapidly flowing water, such as the plunge pools of waterfalls. As it grows, Dratini will shed its skin many times."
+84,45,Dragon PokÃ©mon,65,61,Dragonair,50,148,70,70,70,dragon,,16.5,1,0,"This Pokémon lives in pristine oceans and lakes. It can control the weather, and it uses this power to fly into the sky, riding on the wind."
+134,45,Dragon PokÃ©mon,95,91,Dragonite,50,149,100,100,80,dragon,flying,210,1,0,"It’s a kindhearted Pokémon. If it spots a drowning person or Pokémon, Dragonite simply must help them."
+150,3,Genetic PokÃ©mon,70,106,Mewtwo,,150,194,120,140,psychic,,122,1,1,"Its DNA is almost the same as Mew’s. However, its size and disposition are vastly different"
+100,45,New Species PokÃ©mon,100,100,Mew,,151,100,100,100,psychic,,4,1,1,"When viewed through a microscope, this Pokémon’s short, fine, delicate hair can be seen."
+49,45,Leaf PokÃ©mon,65,45,Chikorita,88.1,152,49,65,45,grass,,6.4,2,0,#N/A
+62,45,Leaf PokÃ©mon,80,60,Bayleef,88.1,153,63,80,60,grass,,15.8,2,0,#N/A
+82,45,Herb PokÃ©mon,100,80,Meganium,88.1,154,83,100,80,grass,,100.5,2,0,#N/A
+52,45,Fire Mouse PokÃ©mon,43,39,Cyndaquil,88.1,155,60,50,65,fire,,7.9,2,0,#N/A
+64,45,Volcano PokÃ©mon,58,58,Quilava,88.1,156,80,65,80,fire,,19,2,0,#N/A
+84,45,Volcano PokÃ©mon,78,78,Typhlosion,88.1,157,109,85,100,fire,,79.5,2,0,#N/A
+65,45,Big Jaw PokÃ©mon,64,50,Totodile,88.1,158,44,48,43,water,,9.5,2,0,#N/A
+80,45,Big Jaw PokÃ©mon,80,65,Croconaw,88.1,159,59,63,58,water,,25,2,0,#N/A
+105,45,Big Jaw PokÃ©mon,100,85,Feraligatr,88.1,160,79,83,78,water,,88.8,2,0,#N/A
+46,255,Scout PokÃ©mon,34,35,Sentret,50,161,35,45,20,normal,,6,2,0,#N/A
+76,90,Long Body PokÃ©mon,64,85,Furret,50,162,45,55,90,normal,,32.5,2,0,#N/A
+30,255,Owl PokÃ©mon,30,60,Hoothoot,50,163,36,56,50,normal,flying,21.2,2,0,#N/A
+50,90,Owl PokÃ©mon,50,100,Noctowl,50,164,86,96,70,normal,flying,40.8,2,0,#N/A
+20,255,Five Star PokÃ©mon,30,40,Ledyba,50,165,40,80,55,bug,flying,10.8,2,0,#N/A
+35,90,Five Star PokÃ©mon,50,55,Ledian,50,166,55,110,85,bug,flying,35.6,2,0,#N/A
+60,255,String Spit PokÃ©mon,40,40,Spinarak,50,167,40,40,30,bug,poison,8.5,2,0,#N/A
+90,90,Long Leg PokÃ©mon,70,70,Ariados,50,168,60,70,40,bug,poison,33.5,2,0,#N/A
+90,90,Bat PokÃ©mon,80,85,Crobat,50,169,70,80,130,poison,flying,75,2,0,#N/A
+38,190,Angler PokÃ©mon,38,75,Chinchou,50,170,56,56,67,water,electric,12,2,0,#N/A
+58,75,Light PokÃ©mon,58,125,Lanturn,50,171,76,76,67,water,electric,22.5,2,0,#N/A
+40,190,Tiny Mouse PokÃ©mon,15,20,Pichu,50,172,35,35,60,electric,,2,2,0,#N/A
+25,150,Star Shape PokÃ©mon,28,50,Cleffa,24.6,173,45,55,15,fairy,,3,2,0,#N/A
+30,170,Balloon PokÃ©mon,15,90,Igglybuff,24.6,174,40,20,15,normal,fairy,1,2,0,#N/A
+20,190,Spike Ball PokÃ©mon,65,35,Togepi,88.1,175,40,65,20,fairy,,1.5,2,0,#N/A
+40,75,Happiness PokÃ©mon,85,55,Togetic,88.1,176,80,105,40,fairy,flying,3.2,2,0,#N/A
+50,190,Little Bird PokÃ©mon,45,40,Natu,50,177,70,45,70,psychic,flying,2,2,0,#N/A
+75,75,Mystic PokÃ©mon,70,65,Xatu,50,178,95,70,95,psychic,flying,15,2,0,#N/A
+40,235,Wool PokÃ©mon,40,55,Mareep,50,179,65,45,35,electric,,7.8,2,0,#N/A
+55,120,Wool PokÃ©mon,55,70,Flaaffy,50,180,80,60,45,electric,,13.3,2,0,#N/A
+95,45,Light PokÃ©mon,105,90,Ampharos,50,181,165,110,45,electric,,61.5,2,0,#N/A
+80,45,Flower PokÃ©mon,95,75,Bellossom,50,182,90,100,50,grass,,5.8,2,0,#N/A
+20,190,Aquamouse PokÃ©mon,50,70,Marill,50,183,20,50,40,water,fairy,8.5,2,0,#N/A
+50,75,Aquarabbit PokÃ©mon,80,100,Azumarill,50,184,60,80,50,water,fairy,28.5,2,0,#N/A
+100,65,Imitation PokÃ©mon,115,70,Sudowoodo,50,185,30,65,30,rock,,38,2,0,#N/A
+75,45,Frog PokÃ©mon,75,90,Politoed,50,186,90,100,70,water,,33.9,2,0,#N/A
+35,255,Cottonweed PokÃ©mon,40,35,Hoppip,50,187,35,55,50,grass,flying,0.5,2,0,#N/A
+45,120,Cottonweed PokÃ©mon,50,55,Skiploom,50,188,45,65,80,grass,flying,1,2,0,#N/A
+55,45,Cottonweed PokÃ©mon,70,75,Jumpluff,50,189,55,95,110,grass,flying,3,2,0,#N/A
+70,45,Long Tail PokÃ©mon,55,55,Aipom,50,190,40,55,85,normal,,11.5,2,0,#N/A
+30,235,Seed PokÃ©mon,30,30,Sunkern,50,191,30,30,30,grass,,1.8,2,0,#N/A
+75,120,Sun PokÃ©mon,55,75,Sunflora,50,192,105,85,30,grass,,8.5,2,0,#N/A
+65,75,Clear Wing PokÃ©mon,45,65,Yanma,50,193,75,45,95,bug,flying,38,2,0,#N/A
+45,255,Water Fish PokÃ©mon,45,55,Wooper,50,194,25,25,15,water,ground,8.5,2,0,#N/A
+85,90,Water Fish PokÃ©mon,85,95,Quagsire,50,195,65,65,35,water,ground,75,2,0,#N/A
+65,45,Sun PokÃ©mon,60,65,Espeon,88.1,196,130,95,110,psychic,,26.5,2,0,#N/A
+65,45,Moonlight PokÃ©mon,110,95,Umbreon,88.1,197,60,130,65,dark,,27,2,0,#N/A
+85,30,Darkness PokÃ©mon,42,60,Murkrow,50,198,85,42,91,dark,flying,2.1,2,0,#N/A
+75,70,Royal PokÃ©mon,80,95,Slowking,50,199,100,110,30,water,psychic,79.5,2,0,#N/A
+60,45,Screech PokÃ©mon,60,60,Misdreavus,50,200,85,85,85,ghost,,1,2,0,#N/A
+72,225,Symbol PokÃ©mon,48,48,Unown,,201,72,48,48,psychic,,5,2,0,#N/A
+33,45,Patient PokÃ©mon,58,190,Wobbuffet,50,202,33,58,33,psychic,,28.5,2,0,#N/A
+80,60,Long Neck PokÃ©mon,65,70,Girafarig,50,203,90,65,85,normal,psychic,41.5,2,0,#N/A
+65,190,Bagworm PokÃ©mon,90,50,Pineco,50,204,35,35,15,bug,,7.2,2,0,#N/A
+90,75,Bagworm PokÃ©mon,140,75,Forretress,50,205,60,60,40,bug,steel,125.8,2,0,#N/A
+70,190,Land Snake PokÃ©mon,70,100,Dunsparce,50,206,65,65,45,normal,,14,2,0,#N/A
+75,60,Flyscorpion PokÃ©mon,105,65,Gligar,50,207,35,65,85,ground,flying,64.8,2,0,#N/A
+125,25,Iron Snake PokÃ©mon,230,75,Steelix,50,208,55,95,30,steel,ground,400,2,0,#N/A
+80,190,Fairy PokÃ©mon,50,60,Snubbull,24.6,209,40,40,30,fairy,,7.8,2,0,#N/A
+120,75,Fairy PokÃ©mon,75,90,Granbull,24.6,210,60,60,45,fairy,,48.7,2,0,#N/A
+95,45,Balloon PokÃ©mon,85,65,Qwilfish,50,211,55,55,85,water,poison,3.9,2,0,#N/A
+150,25,Pincer PokÃ©mon,140,70,Scizor,50,212,65,100,75,bug,steel,118,2,0,#N/A
+10,190,Mold PokÃ©mon,230,20,Shuckle,50,213,10,230,5,bug,rock,20.5,2,0,#N/A
+185,45,Singlehorn PokÃ©mon,115,80,Heracross,50,214,40,105,75,bug,fighting,54,2,0,#N/A
+95,60,Sharp Claw PokÃ©mon,55,55,Sneasel,50,215,35,75,115,dark,ice,28,2,0,#N/A
+80,120,Little Bear PokÃ©mon,50,60,Teddiursa,50,216,50,50,40,normal,,8.8,2,0,#N/A
+130,60,Hibernator PokÃ©mon,75,90,Ursaring,50,217,75,75,55,normal,,125.8,2,0,#N/A
+40,190,Lava PokÃ©mon,40,40,Slugma,50,218,70,40,20,fire,,35,2,0,#N/A
+50,75,Lava PokÃ©mon,120,60,Magcargo,50,219,90,80,30,fire,rock,55,2,0,#N/A
+50,225,Pig PokÃ©mon,40,50,Swinub,50,220,30,30,50,ice,ground,6.5,2,0,#N/A
+100,75,Swine PokÃ©mon,80,100,Piloswine,50,221,60,60,50,ice,ground,55.8,2,0,#N/A
+55,60,Coral PokÃ©mon,95,65,Corsola,24.6,222,65,95,35,water,rock,5,2,0,#N/A
+65,190,Jet PokÃ©mon,35,35,Remoraid,50,223,65,35,65,water,,12,2,0,#N/A
+105,75,Jet PokÃ©mon,75,75,Octillery,50,224,105,75,45,water,,28.5,2,0,#N/A
+55,45,Delivery PokÃ©mon,45,45,Delibird,50,225,65,45,75,ice,flying,16,2,0,#N/A
+40,25,Kite PokÃ©mon,70,85,Mantine,50,226,80,140,70,water,flying,220,2,0,#N/A
+80,25,Armor Bird PokÃ©mon,140,65,Skarmory,50,227,40,70,70,steel,flying,50.5,2,0,#N/A
+60,120,Dark PokÃ©mon,30,45,Houndour,50,228,80,50,65,dark,fire,10.8,2,0,#N/A
+90,45,Dark PokÃ©mon,90,75,Houndoom,50,229,140,90,115,dark,fire,35,2,0,#N/A
+95,45,Dragon PokÃ©mon,95,75,Kingdra,50,230,95,95,85,water,dragon,152,2,0,#N/A
+60,120,Long Nose PokÃ©mon,60,90,Phanpy,50,231,40,40,40,ground,,33.5,2,0,#N/A
+120,60,Armor PokÃ©mon,120,90,Donphan,50,232,60,60,50,ground,,120,2,0,#N/A
+80,45,Virtual PokÃ©mon,90,85,Porygon2,,233,105,95,60,normal,,32.5,2,0,#N/A
+95,45,Big Horn PokÃ©mon,62,73,Stantler,50,234,85,65,85,normal,,71.2,2,0,#N/A
+20,45,Painter PokÃ©mon,35,55,Smeargle,50,235,20,45,75,normal,,58,2,0,#N/A
+35,75,Scuffle PokÃ©mon,35,35,Tyrogue,100,236,35,35,35,fighting,,21,2,0,#N/A
+95,45,Handstand PokÃ©mon,95,50,Hitmontop,100,237,35,110,70,fighting,,48,2,0,#N/A
+30,45,Kiss PokÃ©mon,15,45,Smoochum,0,238,85,65,65,ice,psychic,6,2,0,#N/A
+63,45,Electric PokÃ©mon,37,45,Elekid,75.4,239,65,55,95,electric,,23.5,2,0,#N/A
+75,45,Live Coal PokÃ©mon,37,45,Magby,75.4,240,70,55,83,fire,,21.4,2,0,#N/A
+80,45,Milk Cow PokÃ©mon,105,95,Miltank,0,241,40,70,100,normal,,75.5,2,0,#N/A
+10,30,Happiness PokÃ©mon,10,255,Blissey,0,242,75,135,55,normal,,46.8,2,0,#N/A
+85,3,Thunder PokÃ©mon,75,90,Raikou,,243,115,100,115,electric,,178,2,1,#N/A
+115,3,Volcano PokÃ©mon,85,115,Entei,,244,90,75,100,fire,,198,2,1,#N/A
+75,3,Aurora PokÃ©mon,115,100,Suicune,,245,90,115,85,water,,187,2,1,#N/A
+64,45,Rock Skin PokÃ©mon,50,50,Larvitar,50,246,45,50,41,rock,ground,72,2,0,#N/A
+84,45,Hard Shell PokÃ©mon,70,70,Pupitar,50,247,65,70,51,rock,ground,152,2,0,#N/A
+164,45,Armor PokÃ©mon,150,100,Tyranitar,50,248,95,120,71,rock,dark,202,2,0,#N/A
+90,3,Diving PokÃ©mon,130,106,Lugia,,249,90,154,110,psychic,flying,216,2,1,#N/A
+130,3,Rainbow PokÃ©mon,90,106,Ho-Oh,,250,110,154,90,fire,flying,199,2,1,#N/A
+100,45,Time Travel PokÃ©mon,100,100,Celebi,,251,100,100,100,psychic,grass,5,2,1,#N/A
+45,45,Wood Gecko PokÃ©mon,35,40,Treecko,88.1,252,65,55,70,grass,,5,3,0,#N/A
+65,45,Wood Gecko PokÃ©mon,45,50,Grovyle,88.1,253,85,65,95,grass,,21.6,3,0,#N/A
+110,45,Forest PokÃ©mon,75,70,Sceptile,88.1,254,145,85,145,grass,,52.2,3,0,#N/A
+60,45,Chick PokÃ©mon,40,45,Torchic,88.1,255,70,50,45,fire,,2.5,3,0,#N/A
+85,45,Young Fowl PokÃ©mon,60,60,Combusken,88.1,256,85,60,55,fire,fighting,19.5,3,0,#N/A
+160,45,Blaze PokÃ©mon,80,80,Blaziken,88.1,257,130,80,100,fire,fighting,52,3,0,#N/A
+70,45,Mud Fish PokÃ©mon,50,50,Mudkip,88.1,258,50,50,40,water,,7.6,3,0,#N/A
+85,45,Mud Fish PokÃ©mon,70,70,Marshtomp,88.1,259,60,70,50,water,ground,28,3,0,#N/A
+150,45,Mud Fish PokÃ©mon,110,100,Swampert,88.1,260,95,110,70,water,ground,81.9,3,0,#N/A
+55,255,Bite PokÃ©mon,35,35,Poochyena,50,261,30,30,35,dark,,13.6,3,0,#N/A
+90,127,Bite PokÃ©mon,70,70,Mightyena,50,262,60,60,70,dark,,37,3,0,#N/A
+30,255,Tiny Racoon PokÃ©mon,41,38,Zigzagoon,50,263,30,41,60,normal,,17.5,3,0,#N/A
+70,90,Rush PokÃ©mon,61,78,Linoone,50,264,50,61,100,normal,,32.5,3,0,#N/A
+45,255,Worm PokÃ©mon,35,45,Wurmple,50,265,20,30,20,bug,,3.6,3,0,#N/A
+35,120,Cocoon PokÃ©mon,55,50,Silcoon,50,266,25,25,15,bug,,10,3,0,#N/A
+70,45,Butterfly PokÃ©mon,50,60,Beautifly,50,267,100,50,65,bug,flying,28.4,3,0,#N/A
+35,120,Cocoon PokÃ©mon,55,50,Cascoon,50,268,25,25,15,bug,,11.5,3,0,#N/A
+50,45,Poison Moth PokÃ©mon,70,60,Dustox,50,269,50,90,65,bug,poison,31.6,3,0,#N/A
+30,255,Water Weed PokÃ©mon,30,40,Lotad,50,270,40,50,30,water,grass,2.6,3,0,#N/A
+50,120,Jolly PokÃ©mon,50,60,Lombre,50,271,60,70,50,water,grass,32.5,3,0,#N/A
+70,45,Carefree PokÃ©mon,70,80,Ludicolo,50,272,90,100,70,water,grass,55,3,0,#N/A
+40,255,Acorn PokÃ©mon,50,40,Seedot,50,273,30,30,30,grass,,4,3,0,#N/A
+70,120,Wily PokÃ©mon,40,70,Nuzleaf,50,274,60,40,60,grass,dark,28,3,0,#N/A
+100,45,Wickid PokÃ©mon,60,90,Shiftry,50,275,90,60,80,grass,dark,59.6,3,0,#N/A
+55,200,TinySwallow PokÃ©mon,30,40,Taillow,50,276,30,30,85,normal,flying,2.3,3,0,#N/A
+85,45,Swallow PokÃ©mon,60,60,Swellow,50,277,75,50,125,normal,flying,19.8,3,0,#N/A
+30,190,Seagull PokÃ©mon,30,40,Wingull,50,278,55,30,85,water,flying,9.5,3,0,#N/A
+50,45,Water Bird PokÃ©mon,100,60,Pelipper,50,279,95,70,65,water,flying,28,3,0,#N/A
+25,235,Feeling PokÃ©mon,25,28,Ralts,50,280,45,35,40,psychic,fairy,6.6,3,0,#N/A
+35,120,Emotion PokÃ©mon,35,38,Kirlia,50,281,65,55,50,psychic,fairy,20.2,3,0,#N/A
+85,45,Embrace PokÃ©mon,65,68,Gardevoir,50,282,165,135,100,psychic,fairy,48.4,3,0,#N/A
+30,200,Pond Skater PokÃ©mon,32,40,Surskit,50,283,50,52,65,bug,water,1.7,3,0,#N/A
+60,75,Eyeball PokÃ©mon,62,70,Masquerain,50,284,100,82,80,bug,flying,3.6,3,0,#N/A
+40,255,Mushroom PokÃ©mon,60,60,Shroomish,50,285,40,60,35,grass,,4.5,3,0,#N/A
+130,90,Mushroom PokÃ©mon,80,60,Breloom,50,286,60,60,70,grass,fighting,39.2,3,0,#N/A
+60,255,Slacker PokÃ©mon,60,60,Slakoth,50,287,35,35,30,normal,,24,3,0,#N/A
+80,120,Wild Monkey PokÃ©mon,80,80,Vigoroth,50,288,55,55,90,normal,,46.5,3,0,#N/A
+160,45,Lazy PokÃ©mon,100,150,Slaking,50,289,95,65,100,normal,,130.5,3,0,#N/A
+45,255,Trainee PokÃ©mon,90,31,Nincada,50,290,30,30,40,bug,ground,5.5,3,0,#N/A
+90,120,Ninja PokÃ©mon,45,61,Ninjask,50,291,50,50,160,bug,flying,12,3,0,#N/A
+90,45,Shed PokÃ©mon,45,1,Shedinja,,292,30,30,40,bug,ghost,1.2,3,0,#N/A
+51,190,Whisper PokÃ©mon,23,64,Whismur,50,293,51,23,28,normal,,16.3,3,0,#N/A
+71,120,Big Voice PokÃ©mon,43,84,Loudred,50,294,71,43,48,normal,,40.5,3,0,#N/A
+91,45,Loud Noise PokÃ©mon,63,104,Exploud,50,295,91,73,68,normal,,84,3,0,#N/A
+60,180,Guts PokÃ©mon,30,72,Makuhita,75.4,296,20,30,25,fighting,,86.4,3,0,#N/A
+120,200,Arm Thrust PokÃ©mon,60,144,Hariyama,75.4,297,40,60,50,fighting,,253.8,3,0,#N/A
+20,150,Polka Dot PokÃ©mon,40,50,Azurill,24.6,298,20,40,20,normal,fairy,2,3,0,#N/A
+45,255,Compass PokÃ©mon,135,30,Nosepass,50,299,45,90,30,rock,,97,3,0,#N/A
+45,255,Kitten PokÃ©mon,45,50,Skitty,24.6,300,35,35,50,normal,,11,3,0,#N/A
+65,60,Prim PokÃ©mon,65,70,Delcatty,24.6,301,55,55,90,normal,,32.6,3,0,#N/A
+85,45,Darkness PokÃ©mon,125,50,Sableye,50,302,85,115,20,dark,ghost,11,3,0,#N/A
+105,45,Deceiver PokÃ©mon,125,50,Mawile,50,303,55,95,50,steel,fairy,11.5,3,0,#N/A
+70,180,Iron Armor PokÃ©mon,100,50,Aron,50,304,40,40,30,steel,rock,60,3,0,#N/A
+90,90,Iron Armor PokÃ©mon,140,60,Lairon,50,305,50,50,40,steel,rock,120,3,0,#N/A
+140,45,Iron Armor PokÃ©mon,230,70,Aggron,50,306,60,80,50,steel,rock,360,3,0,#N/A
+40,180,Meditate PokÃ©mon,55,30,Meditite,50,307,40,55,60,fighting,psychic,11.2,3,0,#N/A
+100,90,Meditate PokÃ©mon,85,60,Medicham,50,308,80,85,100,fighting,psychic,31.5,3,0,#N/A
+45,120,Lightning PokÃ©mon,40,40,Electrike,50,309,65,40,65,electric,,15.2,3,0,#N/A
+75,45,Discharge PokÃ©mon,80,70,Manectric,50,310,135,80,135,electric,,40.2,3,0,#N/A
+50,200,Cheering PokÃ©mon,40,60,Plusle,50,311,85,75,95,electric,,4.2,3,0,#N/A
+40,200,Cheering PokÃ©mon,50,60,Minun,50,312,75,85,95,electric,,4.2,3,0,#N/A
+73,150,Firefly PokÃ©mon,75,65,Volbeat,100,313,47,85,85,bug,,17.7,3,0,#N/A
+47,150,Firefly PokÃ©mon,75,65,Illumise,0,314,73,85,85,bug,,17.7,3,0,#N/A
+60,150,Thorn PokÃ©mon,45,50,Roselia,50,315,100,80,65,grass,poison,2,3,0,#N/A
+43,225,Stomach PokÃ©mon,53,70,Gulpin,50,316,43,53,40,poison,,10.3,3,0,#N/A
+73,75,Poison Bag PokÃ©mon,83,100,Swalot,50,317,73,83,55,poison,,80,3,0,#N/A
+90,225,Savage PokÃ©mon,20,45,Carvanha,50,318,65,20,65,water,dark,20.8,3,0,#N/A
+140,60,Brutal PokÃ©mon,70,70,Sharpedo,50,319,110,65,105,water,dark,88.8,3,0,#N/A
+70,125,Ball Whale PokÃ©mon,35,130,Wailmer,50,320,70,35,60,water,,130,3,0,#N/A
+90,60,Float Whale PokÃ©mon,45,170,Wailord,50,321,90,45,60,water,,398,3,0,#N/A
+60,255,Numb PokÃ©mon,40,60,Numel,50,322,65,45,35,fire,ground,24,3,0,#N/A
+120,150,Eruption PokÃ©mon,100,70,Camerupt,50,323,145,105,20,fire,ground,220,3,0,#N/A
+85,90,Coal PokÃ©mon,140,70,Torkoal,50,324,85,70,20,fire,,80.4,3,0,#N/A
+25,255,Bounce PokÃ©mon,35,60,Spoink,50,325,70,80,60,psychic,,30.6,3,0,#N/A
+45,60,Manipulate PokÃ©mon,65,80,Grumpig,50,326,90,110,80,psychic,,71.5,3,0,#N/A
+60,255,Spot Panda PokÃ©mon,60,60,Spinda,50,327,60,60,60,normal,,5,3,0,#N/A
+100,255,Ant Pit PokÃ©mon,45,45,Trapinch,50,328,45,45,10,ground,,15,3,0,#N/A
+70,120,Vibration PokÃ©mon,50,50,Vibrava,50,329,50,50,70,ground,dragon,15.3,3,0,#N/A
+100,45,Mystic PokÃ©mon,80,80,Flygon,50,330,80,80,100,ground,dragon,82,3,0,#N/A
+85,190,Cactus PokÃ©mon,40,50,Cacnea,50,331,85,40,35,grass,,51.3,3,0,#N/A
+115,60,Scarecrow PokÃ©mon,60,70,Cacturne,50,332,115,60,55,grass,dark,77.4,3,0,#N/A
+40,255,Cotton Bird PokÃ©mon,60,45,Swablu,50,333,40,75,50,normal,flying,1.2,3,0,#N/A
+110,45,Humming PokÃ©mon,110,75,Altaria,50,334,110,105,80,dragon,flying,20.6,3,0,#N/A
+115,90,Cat Ferret PokÃ©mon,60,73,Zangoose,50,335,60,60,90,normal,,40.3,3,0,#N/A
+100,90,Fang Snake PokÃ©mon,60,73,Seviper,50,336,100,60,65,poison,,52.5,3,0,#N/A
+55,45,Meteorite PokÃ©mon,65,90,Lunatone,,337,95,85,70,rock,psychic,168,3,0,#N/A
+95,45,Meteorite PokÃ©mon,85,90,Solrock,,338,55,65,70,rock,psychic,154,3,0,#N/A
+48,190,Whiskers PokÃ©mon,43,50,Barboach,50,339,46,41,60,water,ground,1.9,3,0,#N/A
+78,75,Whiskers PokÃ©mon,73,110,Whiscash,50,340,76,71,60,water,ground,23.6,3,0,#N/A
+80,205,Ruffian PokÃ©mon,65,43,Corphish,50,341,50,35,35,water,,11.5,3,0,#N/A
+120,155,Rogue PokÃ©mon,85,63,Crawdaunt,50,342,90,55,55,water,dark,32.8,3,0,#N/A
+40,255,Clay Doll PokÃ©mon,55,40,Baltoy,,343,40,70,55,ground,psychic,21.5,3,0,#N/A
+70,90,Clay Doll PokÃ©mon,105,60,Claydol,,344,70,120,75,ground,psychic,108,3,0,#N/A
+41,45,Sea Lily PokÃ©mon,77,66,Lileep,88.1,345,61,87,23,rock,grass,23.8,3,0,#N/A
+81,45,Barnacle PokÃ©mon,97,86,Cradily,88.1,346,81,107,43,rock,grass,60.4,3,0,#N/A
+95,45,Old Shrimp PokÃ©mon,50,45,Anorith,88.1,347,40,50,75,rock,bug,12.5,3,0,#N/A
+125,45,Plate PokÃ©mon,100,75,Armaldo,88.1,348,70,80,45,rock,bug,68.2,3,0,#N/A
+15,255,Fish PokÃ©mon,20,20,Feebas,50,349,10,55,80,water,,7.4,3,0,#N/A
+60,60,Tender PokÃ©mon,79,95,Milotic,50,350,100,125,81,water,,162,3,0,#N/A
+70,45,Weather PokÃ©mon,70,70,Castform,50,351,70,70,70,normal,,0.8,3,0,#N/A
+90,200,Color Swap PokÃ©mon,70,60,Kecleon,50,352,60,120,40,normal,,22,3,0,#N/A
+75,225,Puppet PokÃ©mon,35,44,Shuppet,50,353,63,33,45,ghost,,2.3,3,0,#N/A
+165,45,Marionette PokÃ©mon,75,64,Banette,50,354,93,83,75,ghost,,12.5,3,0,#N/A
+40,190,Requiem PokÃ©mon,90,20,Duskull,50,355,30,90,25,ghost,,15,3,0,#N/A
+70,90,Beckon PokÃ©mon,130,40,Dusclops,50,356,60,130,25,ghost,,30.6,3,0,#N/A
+68,200,Fruit PokÃ©mon,83,99,Tropius,50,357,72,87,51,grass,flying,100,3,0,#N/A
+50,45,Wind Chime PokÃ©mon,80,75,Chimecho,50,358,95,90,65,psychic,,1,3,0,#N/A
+150,30,Disaster PokÃ©mon,60,65,Absol,50,359,115,60,115,dark,,47,3,0,#N/A
+23,125,Bright PokÃ©mon,48,95,Wynaut,50,360,23,48,23,psychic,,14,3,0,#N/A
+50,190,Snow Hat PokÃ©mon,50,50,Snorunt,50,361,50,50,50,ice,,16.8,3,0,#N/A
+120,75,Face PokÃ©mon,80,80,Glalie,50,362,120,80,100,ice,,256.5,3,0,#N/A
+40,255,Clap PokÃ©mon,50,70,Spheal,50,363,55,50,25,ice,water,39.5,3,0,#N/A
+60,120,Ball Roll PokÃ©mon,70,90,Sealeo,50,364,75,70,45,ice,water,87.6,3,0,#N/A
+80,45,Ice Break PokÃ©mon,90,110,Walrein,50,365,95,90,65,ice,water,150.6,3,0,#N/A
+64,255,Bivalve PokÃ©mon,85,35,Clamperl,50,366,74,55,32,water,,52.5,3,0,#N/A
+104,60,Deep Sea PokÃ©mon,105,55,Huntail,50,367,94,75,52,water,,27,3,0,#N/A
+84,60,South Sea PokÃ©mon,105,55,Gorebyss,50,368,114,75,52,water,,22.6,3,0,#N/A
+90,25,Longevity PokÃ©mon,130,100,Relicanth,88.1,369,45,65,55,water,rock,23.4,3,0,#N/A
+30,225,Rendezvous PokÃ©mon,55,43,Luvdisc,24.6,370,40,65,97,water,,8.7,3,0,#N/A
+75,45,Rock Head PokÃ©mon,60,45,Bagon,50,371,40,30,50,dragon,,42.1,3,0,#N/A
+95,45,Endurance PokÃ©mon,100,65,Shelgon,50,372,60,50,50,dragon,,110.5,3,0,#N/A
+145,45,Dragon PokÃ©mon,130,95,Salamence,50,373,120,90,120,dragon,flying,102.6,3,0,#N/A
+55,3,Iron Ball PokÃ©mon,80,40,Beldum,,374,35,60,30,steel,psychic,95.2,3,0,#N/A
+75,3,Iron Claw PokÃ©mon,100,60,Metang,,375,55,80,50,steel,psychic,202.5,3,0,#N/A
+145,3,Iron Leg PokÃ©mon,150,80,Metagross,,376,105,110,110,steel,psychic,550,3,0,#N/A
+100,3,Rock Peak PokÃ©mon,200,80,Regirock,,377,50,100,50,rock,,230,3,1,#N/A
+50,3,Iceberg PokÃ©mon,100,80,Regice,,378,100,200,50,ice,,175,3,1,#N/A
+75,3,Iron PokÃ©mon,150,80,Registeel,,379,75,150,50,steel,,205,3,1,#N/A
+100,3,Eon PokÃ©mon,120,80,Latias,0,380,140,150,110,dragon,psychic,40,3,1,#N/A
+130,3,Eon PokÃ©mon,100,80,Latios,100,381,160,120,110,dragon,psychic,60,3,1,#N/A
+150,3,Sea Basin PokÃ©mon,90,100,Kyogre,,382,180,160,90,water,,352,3,1,#N/A
+180,3,Continent PokÃ©mon,160,100,Groudon,,383,150,90,90,ground,,950,3,1,#N/A
+180,45,Sky High PokÃ©mon,100,105,Rayquaza,,384,180,100,115,dragon,flying,206.5,3,1,#N/A
+100,3,Wish PokÃ©mon,100,100,Jirachi,,385,100,100,100,steel,psychic,1.1,3,1,#N/A
+95,3,DNA PokÃ©mon,90,50,Deoxys,,386,95,90,180,psychic,,60.8,3,1,#N/A
+68,45,Tiny Leaf PokÃ©mon,64,55,Turtwig,88.1,387,45,55,31,grass,,10.2,4,0,#N/A
+89,45,Grove PokÃ©mon,85,75,Grotle,88.1,388,55,65,36,grass,,97,4,0,#N/A
+109,45,Continent PokÃ©mon,105,95,Torterra,88.1,389,75,85,56,grass,ground,310,4,0,#N/A
+58,45,Chimp PokÃ©mon,44,44,Chimchar,88.1,390,58,44,61,fire,,6.2,4,0,#N/A
+78,45,Playful PokÃ©mon,52,64,Monferno,88.1,391,78,52,81,fire,fighting,22,4,0,#N/A
+104,45,Flame PokÃ©mon,71,76,Infernape,88.1,392,104,71,108,fire,fighting,55,4,0,#N/A
+51,45,Penguin PokÃ©mon,53,53,Piplup,88.1,393,61,56,40,water,,5.2,4,0,#N/A
+66,45,Penguin PokÃ©mon,68,64,Prinplup,88.1,394,81,76,50,water,,23,4,0,#N/A
+86,45,Emperor PokÃ©mon,88,84,Empoleon,88.1,395,111,101,60,water,steel,84.5,4,0,#N/A
+55,255,Starling PokÃ©mon,30,40,Starly,50,396,30,30,60,normal,flying,2,4,0,#N/A
+75,120,Starling PokÃ©mon,50,55,Staravia,50,397,40,40,80,normal,flying,15.5,4,0,#N/A
+120,45,Predator PokÃ©mon,70,85,Staraptor,50,398,50,60,100,normal,flying,24.9,4,0,#N/A
+45,255,Plump Mouse PokÃ©mon,40,59,Bidoof,50,399,35,40,31,normal,,20,4,0,#N/A
+85,127,Beaver PokÃ©mon,60,79,Bibarel,50,400,55,60,71,normal,water,31.5,4,0,#N/A
+25,255,Cricket PokÃ©mon,41,37,Kricketot,50,401,25,41,25,bug,,2.2,4,0,#N/A
+85,45,Cricket PokÃ©mon,51,77,Kricketune,50,402,55,51,65,bug,,25.5,4,0,#N/A
+65,235,Flash PokÃ©mon,34,45,Shinx,50,403,40,34,45,electric,,9.5,4,0,#N/A
+85,120,Spark PokÃ©mon,49,60,Luxio,50,404,60,49,60,electric,,30.5,4,0,#N/A
+120,45,Gleam Eyes PokÃ©mon,79,80,Luxray,50,405,95,79,70,electric,,42,4,0,#N/A
+30,255,Bud PokÃ©mon,35,40,Budew,50,406,50,70,55,grass,poison,1.2,4,0,#N/A
+70,75,Bouquet PokÃ©mon,65,60,Roserade,50,407,125,105,90,grass,poison,14.5,4,0,#N/A
+125,45,Head Butt PokÃ©mon,40,67,Cranidos,88.1,408,30,30,58,rock,,31.5,4,0,#N/A
+165,45,Head Butt PokÃ©mon,60,97,Rampardos,88.1,409,65,50,58,rock,,102.5,4,0,#N/A
+42,45,Shield PokÃ©mon,118,30,Shieldon,88.1,410,42,88,30,rock,steel,57,4,0,#N/A
+52,45,Shield PokÃ©mon,168,60,Bastiodon,88.1,411,47,138,30,rock,steel,149.5,4,0,#N/A
+29,120,Bagworm PokÃ©mon,45,40,Burmy,50,412,29,45,36,bug,,3.4,4,0,#N/A
+69,45,Bagworm PokÃ©mon,95,60,Wormadam,0,413,69,95,36,bug,grass,6.5,4,0,#N/A
+94,45,Moth PokÃ©mon,50,70,Mothim,100,414,94,50,66,bug,flying,23.3,4,0,#N/A
+30,120,Tiny Bee PokÃ©mon,42,30,Combee,88.1,415,30,42,70,bug,flying,5.5,4,0,#N/A
+80,45,Beehive PokÃ©mon,102,70,Vespiquen,0,416,80,102,40,bug,flying,38.5,4,0,#N/A
+45,200,EleSquirrel PokÃ©mon,70,60,Pachirisu,50,417,45,90,95,electric,,3.9,4,0,#N/A
+65,190,Sea Weasel PokÃ©mon,35,55,Buizel,50,418,60,30,85,water,,29.5,4,0,#N/A
+105,75,Sea Weasel PokÃ©mon,55,85,Floatzel,50,419,85,50,115,water,,33.5,4,0,#N/A
+35,190,Cherry PokÃ©mon,45,45,Cherubi,50,420,62,53,35,grass,,3.3,4,0,#N/A
+60,75,Blossom PokÃ©mon,70,70,Cherrim,50,421,87,78,85,grass,,9.3,4,0,#N/A
+48,190,Sea Slug PokÃ©mon,48,76,Shellos,50,422,57,62,34,water,,6.3,4,0,#N/A
+83,75,Sea Slug PokÃ©mon,68,111,Gastrodon,50,423,92,82,39,water,ground,29.9,4,0,#N/A
+100,45,Long Tail PokÃ©mon,66,75,Ambipom,50,424,60,66,115,normal,,20.3,4,0,#N/A
+50,125,Balloon PokÃ©mon,34,90,Drifloon,50,425,60,44,70,ghost,flying,1.2,4,0,#N/A
+80,60,Blimp PokÃ©mon,44,150,Drifblim,50,426,90,54,80,ghost,flying,15,4,0,#N/A
+66,190,Rabbit PokÃ©mon,44,55,Buneary,50,427,44,56,85,normal,,5.5,4,0,#N/A
+136,60,Rabbit PokÃ©mon,94,65,Lopunny,50,428,54,96,135,normal,,33.3,4,0,#N/A
+60,45,Magical PokÃ©mon,60,60,Mismagius,50,429,105,105,105,ghost,,4.4,4,0,#N/A
+125,30,Big Boss PokÃ©mon,52,100,Honchkrow,50,430,105,52,71,dark,flying,27.3,4,0,#N/A
+55,190,Catty PokÃ©mon,42,49,Glameow,24.6,431,42,37,85,normal,,3.9,4,0,#N/A
+82,75,Tiger Cat PokÃ©mon,64,71,Purugly,24.6,432,64,59,112,normal,,43.8,4,0,#N/A
+30,120,Bell PokÃ©mon,50,45,Chingling,50,433,65,50,45,psychic,,0.6,4,0,#N/A
+63,225,Skunk PokÃ©mon,47,63,Stunky,50,434,41,41,74,poison,dark,19.2,4,0,#N/A
+93,60,Skunk PokÃ©mon,67,103,Skuntank,50,435,71,61,84,poison,dark,38,4,0,#N/A
+24,255,Bronze PokÃ©mon,86,57,Bronzor,,436,24,86,23,steel,psychic,60.5,4,0,#N/A
+89,90,Bronze Bell PokÃ©mon,116,67,Bronzong,,437,79,116,33,steel,psychic,187,4,0,#N/A
+80,255,Bonsai PokÃ©mon,95,50,Bonsly,50,438,10,45,10,rock,,15,4,0,#N/A
+25,145,Mime PokÃ©mon,45,20,Mime Jr.,50,439,70,90,60,psychic,fairy,13,4,0,#N/A
+5,130,Playhouse PokÃ©mon,5,100,Happiny,0,440,15,65,30,normal,,24.4,4,0,#N/A
+65,30,Music Note PokÃ©mon,45,76,Chatot,50,441,92,42,91,normal,flying,1.9,4,0,#N/A
+92,100,Forbidden PokÃ©mon,108,50,Spiritomb,50,442,92,108,35,ghost,dark,108,4,0,#N/A
+70,45,Land Shark PokÃ©mon,45,58,Gible,50,443,40,45,42,dragon,ground,20.5,4,0,#N/A
+90,45,Cave PokÃ©mon,65,68,Gabite,50,444,50,55,82,dragon,ground,56,4,0,#N/A
+170,45,Mach PokÃ©mon,115,108,Garchomp,50,445,120,95,92,dragon,ground,95,4,0,#N/A
+85,50,Big Eater PokÃ©mon,40,135,Munchlax,88.1,446,40,85,5,normal,,105,4,0,#N/A
+70,75,Emanation PokÃ©mon,40,40,Riolu,88.1,447,35,40,60,fighting,,20.2,4,0,#N/A
+145,45,Aura PokÃ©mon,88,70,Lucario,88.1,448,140,70,112,fighting,steel,54,4,0,#N/A
+72,140,Hippo PokÃ©mon,78,68,Hippopotas,50,449,38,42,32,ground,,49.5,4,0,#N/A
+112,60,Heavyweight PokÃ©mon,118,108,Hippowdon,50,450,68,72,47,ground,,300,4,0,#N/A
+50,120,Scorpion PokÃ©mon,90,40,Skorupi,50,451,30,55,65,poison,bug,12,4,0,#N/A
+90,45,Ogre Scorp PokÃ©mon,110,70,Drapion,50,452,60,75,95,poison,dark,61.5,4,0,#N/A
+61,140,Toxic Mouth PokÃ©mon,40,48,Croagunk,50,453,61,40,50,poison,fighting,23,4,0,#N/A
+106,75,Toxic Mouth PokÃ©mon,65,83,Toxicroak,50,454,86,65,85,poison,fighting,44.4,4,0,#N/A
+100,200,Bug Catcher PokÃ©mon,72,74,Carnivine,50,455,90,72,46,grass,,27,4,0,#N/A
+49,190,Wing Fish PokÃ©mon,56,49,Finneon,50,456,49,61,66,water,,7,4,0,#N/A
+69,75,Neon PokÃ©mon,76,69,Lumineon,50,457,69,86,91,water,,24,4,0,#N/A
+20,25,Kite PokÃ©mon,50,45,Mantyke,50,458,60,120,50,water,flying,65,4,0,#N/A
+62,120,Frosted Tree PokÃ©mon,50,60,Snover,50,459,62,60,40,grass,ice,50.5,4,0,#N/A
+132,60,Frosted Tree PokÃ©mon,105,90,Abomasnow,50,460,132,105,30,grass,ice,135.5,4,0,#N/A
+120,45,Sharp Claw PokÃ©mon,65,70,Weavile,50,461,45,85,125,dark,ice,34,4,0,#N/A
+70,30,Magnet Area PokÃ©mon,115,70,Magnezone,,462,130,90,60,electric,steel,180,4,0,#N/A
+85,30,Licking PokÃ©mon,95,110,Lickilicky,50,463,80,95,50,normal,,140,4,0,#N/A
+140,30,Drill PokÃ©mon,130,115,Rhyperior,50,464,55,55,40,ground,rock,282.8,4,0,#N/A
+100,30,Vine PokÃ©mon,125,100,Tangrowth,50,465,110,50,50,grass,,128.6,4,0,#N/A
+123,30,Thunderbolt PokÃ©mon,67,75,Electivire,75.4,466,95,85,95,electric,,138.6,4,0,#N/A
+95,30,Blast PokÃ©mon,67,75,Magmortar,75.4,467,125,95,83,fire,,68,4,0,#N/A
+50,30,Jubilee PokÃ©mon,95,85,Togekiss,88.1,468,120,115,80,fairy,flying,38,4,0,#N/A
+76,30,Ogre Darner PokÃ©mon,86,86,Yanmega,50,469,116,56,95,bug,flying,51.5,4,0,#N/A
+110,45,Verdant PokÃ©mon,130,65,Leafeon,88.1,470,60,65,95,grass,,25.5,4,0,#N/A
+60,45,Fresh Snow PokÃ©mon,110,65,Glaceon,88.1,471,130,95,65,ice,,25.9,4,0,#N/A
+95,30,Fang Scorp PokÃ©mon,125,75,Gliscor,50,472,45,75,95,ground,flying,42.5,4,0,#N/A
+130,50,Twin Tusk PokÃ©mon,80,110,Mamoswine,50,473,70,60,80,ice,ground,291,4,0,#N/A
+80,30,Virtual PokÃ©mon,70,85,Porygon-Z,,474,135,75,90,normal,,34,4,0,#N/A
+165,45,Blade PokÃ©mon,95,68,Gallade,100,475,65,115,110,psychic,fighting,52,4,0,#N/A
+55,60,Compass PokÃ©mon,145,60,Probopass,50,476,75,150,40,rock,steel,340,4,0,#N/A
+100,45,Gripper PokÃ©mon,135,45,Dusknoir,50,477,65,135,45,ghost,,106.6,4,0,#N/A
+80,75,Snow Land PokÃ©mon,70,70,Froslass,0,478,80,70,110,ice,ghost,26.6,4,0,#N/A
+65,45,Plasma PokÃ©mon,107,50,Rotom,,479,105,107,86,electric,ghost,0.3,4,0,#N/A
+75,3,Knowledge PokÃ©mon,130,75,Uxie,,480,75,130,95,psychic,,0.3,4,1,#N/A
+105,3,Emotion PokÃ©mon,105,80,Mesprit,,481,105,105,80,psychic,,0.3,4,1,#N/A
+125,3,Willpower PokÃ©mon,70,75,Azelf,,482,125,70,115,psychic,,0.3,4,1,#N/A
+120,3,Temporal PokÃ©mon,120,100,Dialga,,483,150,100,90,steel,dragon,683,4,1,#N/A
+120,3,Spatial PokÃ©mon,100,90,Palkia,,484,150,120,100,water,dragon,336,4,1,#N/A
+90,3,Lava Dome PokÃ©mon,106,91,Heatran,50,485,130,106,77,fire,steel,430,4,1,#N/A
+160,3,Colossal PokÃ©mon,110,110,Regigigas,,486,80,110,100,normal,,420,4,1,#N/A
+120,3,Renegade PokÃ©mon,100,150,Giratina,,487,120,100,90,ghost,dragon,750,4,1,#N/A
+70,3,Lunar PokÃ©mon,120,120,Cresselia,0,488,75,130,85,psychic,,85.6,4,1,#N/A
+80,30,Sea Drifter PokÃ©mon,80,80,Phione,,489,80,80,80,water,,3.1,4,0,#N/A
+100,3,Seafaring PokÃ©mon,100,100,Manaphy,,490,100,100,100,water,,1.4,4,1,#N/A
+90,3,Pitch-Black PokÃ©mon,90,70,Darkrai,,491,135,90,125,dark,,50.5,4,1,#N/A
+103,45,Gratitude PokÃ©mon,75,100,Shaymin,,492,120,75,127,grass,grass,2.1,4,1,#N/A
+120,3,Alpha PokÃ©mon,120,120,Arceus,,493,120,120,120,normal,,320,4,1,#N/A
+100,3,Victory PokÃ©mon,100,100,Victini,,494,100,100,100,psychic,fire,4,5,1,#N/A
+45,45,Grass Snake PokÃ©mon,55,45,Snivy,88.1,495,45,55,63,grass,,8.1,5,0,#N/A
+60,45,Grass Snake PokÃ©mon,75,60,Servine,88.1,496,60,75,83,grass,,16,5,0,#N/A
+75,45,Regal PokÃ©mon,95,75,Serperior,88.1,497,75,95,113,grass,,63,5,0,#N/A
+63,45,Fire Pig PokÃ©mon,45,65,Tepig,88.1,498,45,45,45,fire,,9.9,5,0,#N/A
+93,45,Fire Pig PokÃ©mon,55,90,Pignite,88.1,499,70,55,55,fire,fighting,55.5,5,0,#N/A
+123,45,Mega Fire Pig PokÃ©mon,65,110,Emboar,88.1,500,100,65,65,fire,fighting,150,5,0,#N/A
+55,45,Sea Otter PokÃ©mon,45,55,Oshawott,88.1,501,63,45,45,water,,5.9,5,0,#N/A
+75,45,Discipline PokÃ©mon,60,75,Dewott,88.1,502,83,60,60,water,,24.5,5,0,#N/A
+100,45,Formidable PokÃ©mon,85,95,Samurott,88.1,503,108,70,70,water,,94.6,5,0,#N/A
+55,255,Scout PokÃ©mon,39,45,Patrat,50,504,35,39,42,normal,,11.6,5,0,#N/A
+85,255,Lookout PokÃ©mon,69,60,Watchog,50,505,60,69,77,normal,,27,5,0,#N/A
+60,255,Puppy PokÃ©mon,45,45,Lillipup,50,506,25,45,55,normal,,4.1,5,0,#N/A
+80,120,Loyal Dog PokÃ©mon,65,65,Herdier,50,507,35,65,60,normal,,14.7,5,0,#N/A
+110,45,Big-Hearted PokÃ©mon,90,85,Stoutland,50,508,45,90,80,normal,,61,5,0,#N/A
+50,255,Devious PokÃ©mon,37,41,Purrloin,50,509,50,37,66,dark,,10.1,5,0,#N/A
+88,90,Cruel PokÃ©mon,50,64,Liepard,50,510,88,50,106,dark,,37.5,5,0,#N/A
+53,190,Grass Monkey PokÃ©mon,48,50,Pansage,88.1,511,53,48,64,grass,,10.5,5,0,#N/A
+98,75,Thorn Monkey PokÃ©mon,63,75,Simisage,88.1,512,98,63,101,grass,,30.5,5,0,#N/A
+53,190,High Temp PokÃ©mon,48,50,Pansear,88.1,513,53,48,64,fire,,11,5,0,#N/A
+98,75,Ember PokÃ©mon,63,75,Simisear,88.1,514,98,63,101,fire,,28,5,0,#N/A
+53,190,Spray PokÃ©mon,48,50,Panpour,88.1,515,53,48,64,water,,13.5,5,0,#N/A
+98,75,Geyser PokÃ©mon,63,75,Simipour,88.1,516,98,63,101,water,,29,5,0,#N/A
+25,190,Dream Eater PokÃ©mon,45,76,Munna,50,517,67,55,24,psychic,,23.3,5,0,#N/A
+55,75,Drowsing PokÃ©mon,85,116,Musharna,50,518,107,95,29,psychic,,60.5,5,0,#N/A
+55,255,Tiny Pigeon PokÃ©mon,50,50,Pidove,50,519,36,30,43,normal,flying,2.1,5,0,#N/A
+77,120,Wild Pigeon PokÃ©mon,62,62,Tranquill,50,520,50,42,65,normal,flying,15,5,0,#N/A
+115,45,Proud PokÃ©mon,80,80,Unfezant,50,521,65,55,93,normal,flying,29,5,0,#N/A
+60,190,Electrified PokÃ©mon,32,45,Blitzle,50,522,50,32,76,electric,,29.8,5,0,#N/A
+100,75,Thunderbolt PokÃ©mon,63,75,Zebstrika,50,523,80,63,116,electric,,79.5,5,0,#N/A
+75,255,Mantle PokÃ©mon,85,55,Roggenrola,50,524,25,25,15,rock,,18,5,0,#N/A
+105,120,Ore PokÃ©mon,105,70,Boldore,50,525,50,40,20,rock,,102,5,0,#N/A
+135,45,Compressed PokÃ©mon,130,85,Gigalith,50,526,60,80,25,rock,,260,5,0,#N/A
+45,190,Bat PokÃ©mon,43,65,Woobat,50,527,55,43,72,psychic,flying,2.1,5,0,#N/A
+57,45,Courting PokÃ©mon,55,67,Swoobat,50,528,77,55,114,psychic,flying,10.5,5,0,#N/A
+85,120,Mole PokÃ©mon,40,60,Drilbur,50,529,30,45,68,ground,,8.5,5,0,#N/A
+135,60,Subterrene PokÃ©mon,60,110,Excadrill,50,530,50,65,88,ground,steel,40.4,5,0,#N/A
+60,255,Hearing PokÃ©mon,126,103,Audino,50,531,80,126,50,normal,,31,5,0,#N/A
+80,180,Muscular PokÃ©mon,55,75,Timburr,75.4,532,25,35,35,fighting,,12.5,5,0,#N/A
+105,90,Muscular PokÃ©mon,85,85,Gurdurr,75.4,533,40,50,40,fighting,,40,5,0,#N/A
+140,45,Muscular PokÃ©mon,95,105,Conkeldurr,75.4,534,55,65,45,fighting,,87,5,0,#N/A
+50,255,Tadpole PokÃ©mon,40,50,Tympole,50,535,50,40,64,water,,4.5,5,0,#N/A
+65,120,Vibration PokÃ©mon,55,75,Palpitoad,50,536,65,55,69,water,ground,17,5,0,#N/A
+95,45,Vibration PokÃ©mon,75,105,Seismitoad,50,537,85,75,74,water,ground,62,5,0,#N/A
+100,45,Judo PokÃ©mon,85,120,Throh,100,538,30,85,45,fighting,,55.5,5,0,#N/A
+125,45,Karate PokÃ©mon,75,75,Sawk,100,539,30,75,85,fighting,,51,5,0,#N/A
+53,255,Sewing PokÃ©mon,70,45,Sewaddle,50,540,40,60,42,bug,grass,2.5,5,0,#N/A
+63,120,Leaf-Wrapped PokÃ©mon,90,55,Swadloon,50,541,50,80,42,bug,grass,7.3,5,0,#N/A
+103,45,Nurturing PokÃ©mon,80,75,Leavanny,50,542,70,80,92,bug,grass,20.5,5,0,#N/A
+45,255,Centipede PokÃ©mon,59,30,Venipede,50,543,30,39,57,bug,poison,5.3,5,0,#N/A
+55,120,Curlipede PokÃ©mon,99,40,Whirlipede,50,544,40,79,47,bug,poison,58.5,5,0,#N/A
+100,45,Megapede PokÃ©mon,89,60,Scolipede,50,545,55,69,112,bug,poison,200.5,5,0,#N/A
+27,190,Cotton Puff PokÃ©mon,60,40,Cottonee,50,546,37,50,66,grass,fairy,0.6,5,0,#N/A
+67,75,Windveiled PokÃ©mon,85,60,Whimsicott,50,547,77,75,116,grass,fairy,6.6,5,0,#N/A
+35,190,Bulb PokÃ©mon,50,45,Petilil,0,548,70,50,30,grass,,6.6,5,0,#N/A
+60,75,Flowering PokÃ©mon,75,70,Lilligant,0,549,110,75,90,grass,,16.3,5,0,#N/A
+92,25,Hostile PokÃ©mon,65,70,Basculin,50,550,80,55,98,water,,18,5,0,#N/A
+72,180,Desert Croc PokÃ©mon,35,50,Sandile,50,551,35,35,65,ground,dark,15.2,5,0,#N/A
+82,90,Desert Croc PokÃ©mon,45,60,Krokorok,50,552,45,45,74,ground,dark,33.4,5,0,#N/A
+117,45,Intimidation PokÃ©mon,80,95,Krookodile,50,553,65,70,92,ground,dark,96.3,5,0,#N/A
+90,120,Zen Charm PokÃ©mon,45,70,Darumaka,50,554,15,45,50,fire,,37.5,5,0,#N/A
+30,60,Blazing PokÃ©mon,105,105,Darmanitan,50,555,140,105,55,fire,fire,92.9,5,0,#N/A
+86,255,Cactus PokÃ©mon,67,75,Maractus,50,556,106,67,60,grass,,28,5,0,#N/A
+65,190,Rock Inn PokÃ©mon,85,50,Dwebble,50,557,35,35,55,bug,rock,14.5,5,0,#N/A
+105,75,Stone Home PokÃ©mon,125,70,Crustle,50,558,65,75,45,bug,rock,200,5,0,#N/A
+75,180,Shedding PokÃ©mon,70,50,Scraggy,50,559,35,70,48,dark,fighting,11.8,5,0,#N/A
+90,90,Hoodlum PokÃ©mon,115,65,Scrafty,50,560,45,115,58,dark,fighting,30,5,0,#N/A
+58,45,Avianoid PokÃ©mon,80,72,Sigilyph,50,561,103,80,97,psychic,flying,14,5,0,#N/A
+30,190,Spirit PokÃ©mon,85,38,Yamask,50,562,55,65,30,ghost,,1.5,5,0,#N/A
+50,90,Coffin PokÃ©mon,145,58,Cofagrigus,50,563,95,105,30,ghost,,76.5,5,0,#N/A
+78,45,Prototurtle PokÃ©mon,103,54,Tirtouga,88.1,564,53,45,22,water,rock,16.5,5,0,#N/A
+108,45,Prototurtle PokÃ©mon,133,74,Carracosta,88.1,565,83,65,32,water,rock,81,5,0,#N/A
+112,45,First Bird PokÃ©mon,45,55,Archen,88.1,566,74,45,70,rock,flying,9.5,5,0,#N/A
+140,45,First Bird PokÃ©mon,65,75,Archeops,88.1,567,112,65,110,rock,flying,32,5,0,#N/A
+50,190,Trash Bag PokÃ©mon,62,50,Trubbish,50,568,40,62,65,poison,,31,5,0,#N/A
+95,60,Trash Heap PokÃ©mon,82,80,Garbodor,50,569,60,82,75,poison,,107.3,5,0,#N/A
+65,75,Tricky Fox PokÃ©mon,40,40,Zorua,88.1,570,80,40,65,dark,,12.5,5,0,#N/A
+105,45,Illusion Fox PokÃ©mon,60,60,Zoroark,88.1,571,120,60,105,dark,,81.1,5,0,#N/A
+50,255,Chinchilla PokÃ©mon,40,55,Minccino,24.6,572,40,40,75,normal,,5.8,5,0,#N/A
+95,60,Scarf PokÃ©mon,60,75,Cinccino,24.6,573,65,60,115,normal,,7.5,5,0,#N/A
+30,200,Fixation PokÃ©mon,50,45,Gothita,24.6,574,55,65,45,psychic,,5.8,5,0,#N/A
+45,100,Manipulate PokÃ©mon,70,60,Gothorita,24.6,575,75,85,55,psychic,,18,5,0,#N/A
+55,50,Astral Body PokÃ©mon,95,70,Gothitelle,24.6,576,95,110,65,psychic,,44,5,0,#N/A
+30,200,Cell PokÃ©mon,40,45,Solosis,50,577,105,50,20,psychic,,1,5,0,#N/A
+40,100,Mitosis PokÃ©mon,50,65,Duosion,50,578,125,60,30,psychic,,8,5,0,#N/A
+65,50,Multiplying PokÃ©mon,75,110,Reuniclus,50,579,125,85,30,psychic,,20.1,5,0,#N/A
+44,190,Water Bird PokÃ©mon,50,62,Ducklett,50,580,44,50,55,water,flying,5.5,5,0,#N/A
+87,45,White Bird PokÃ©mon,63,75,Swanna,50,581,87,63,98,water,flying,24.2,5,0,#N/A
+50,255,Fresh Snow PokÃ©mon,50,36,Vanillite,50,582,65,60,44,ice,,5.7,5,0,#N/A
+65,120,Icy Snow PokÃ©mon,65,51,Vanillish,50,583,80,75,59,ice,,41,5,0,#N/A
+95,45,Snowstorm PokÃ©mon,85,71,Vanilluxe,50,584,110,95,79,ice,,57.5,5,0,#N/A
+60,190,Season PokÃ©mon,50,60,Deerling,50,585,40,50,75,normal,grass,19.5,5,0,#N/A
+100,75,Season PokÃ©mon,70,80,Sawsbuck,50,586,60,70,95,normal,grass,92.5,5,0,#N/A
+75,200,Sky Squirrel PokÃ©mon,60,55,Emolga,50,587,75,60,103,electric,flying,5,5,0,#N/A
+75,200,Clamping PokÃ©mon,45,50,Karrablast,50,588,40,45,60,bug,,5.9,5,0,#N/A
+135,75,Cavalry PokÃ©mon,105,70,Escavalier,50,589,60,105,20,bug,steel,33,5,0,#N/A
+55,190,Mushroom PokÃ©mon,45,69,Foongus,50,590,55,55,15,grass,poison,1,5,0,#N/A
+85,75,Mushroom PokÃ©mon,70,114,Amoonguss,50,591,85,80,30,grass,poison,10.5,5,0,#N/A
+40,190,Floating PokÃ©mon,50,55,Frillish,50,592,65,85,40,water,ghost,33,5,0,#N/A
+60,60,Floating PokÃ©mon,70,100,Jellicent,50,593,85,105,60,water,ghost,135,5,0,#N/A
+75,75,Caring PokÃ©mon,80,165,Alomomola,50,594,40,45,65,water,,31.6,5,0,#N/A
+47,190,Attaching PokÃ©mon,50,50,Joltik,50,595,57,50,65,bug,electric,0.6,5,0,#N/A
+77,75,EleSpider PokÃ©mon,60,70,Galvantula,50,596,97,60,108,bug,electric,14.3,5,0,#N/A
+50,255,Thorn Seed PokÃ©mon,91,44,Ferroseed,50,597,24,86,10,grass,steel,18.8,5,0,#N/A
+94,90,Thorn Pod PokÃ©mon,131,74,Ferrothorn,50,598,54,116,20,grass,steel,110,5,0,#N/A
+55,130,Gear PokÃ©mon,70,40,Klink,,599,45,60,30,steel,,21,5,0,#N/A
+80,60,Gear PokÃ©mon,95,60,Klang,,600,70,85,50,steel,,51,5,0,#N/A
+100,30,Gear PokÃ©mon,115,60,Klinklang,,601,70,85,90,steel,,81,5,0,#N/A
+55,190,EleFish PokÃ©mon,40,35,Tynamo,50,602,45,40,60,electric,,0.3,5,0,#N/A
+85,60,EleFish PokÃ©mon,70,65,Eelektrik,50,603,75,70,40,electric,,22,5,0,#N/A
+115,30,EleFish PokÃ©mon,80,85,Eelektross,50,604,105,80,50,electric,,80.5,5,0,#N/A
+55,255,Cerebral PokÃ©mon,55,55,Elgyem,50,605,85,55,30,psychic,,9,5,0,#N/A
+75,90,Cerebral PokÃ©mon,75,75,Beheeyem,50,606,125,95,40,psychic,,34.5,5,0,#N/A
+30,190,Candle PokÃ©mon,55,50,Litwick,50,607,65,55,20,ghost,fire,3.1,5,0,#N/A
+40,90,Lamp PokÃ©mon,60,60,Lampent,50,608,95,60,55,ghost,fire,13,5,0,#N/A
+55,45,Luring PokÃ©mon,90,60,Chandelure,50,609,145,90,80,ghost,fire,34.3,5,0,#N/A
+87,75,Tusk PokÃ©mon,60,46,Axew,50,610,30,40,57,dragon,,18,5,0,#N/A
+117,60,Axe Jaw PokÃ©mon,70,66,Fraxure,50,611,40,50,67,dragon,,36,5,0,#N/A
+147,45,Axe Jaw PokÃ©mon,90,76,Haxorus,50,612,60,70,97,dragon,,105.5,5,0,#N/A
+70,120,Chill PokÃ©mon,40,55,Cubchoo,50,613,60,40,40,ice,,8.5,5,0,#N/A
+130,60,Freezing PokÃ©mon,80,95,Beartic,50,614,70,80,50,ice,,260,5,0,#N/A
+50,25,Crystallizing PokÃ©mon,50,80,Cryogonal,,615,95,135,105,ice,,148,5,0,#N/A
+40,200,Snail PokÃ©mon,85,50,Shelmet,50,616,40,65,25,bug,,7.7,5,0,#N/A
+70,75,Shell Out PokÃ©mon,40,80,Accelgor,50,617,100,60,145,bug,,25.3,5,0,#N/A
+66,75,Trap PokÃ©mon,84,109,Stunfisk,50,618,81,99,32,ground,electric,11,5,0,#N/A
+85,180,Martial Arts PokÃ©mon,50,45,Mienfoo,50,619,55,50,65,fighting,,20,5,0,#N/A
+125,45,Martial Arts PokÃ©mon,60,65,Mienshao,50,620,95,60,105,fighting,,35.5,5,0,#N/A
+120,45,Cave PokÃ©mon,90,77,Druddigon,50,621,60,90,48,dragon,,139,5,0,#N/A
+74,190,Automaton PokÃ©mon,50,59,Golett,,622,35,50,35,ground,ghost,92,5,0,#N/A
+124,90,Automaton PokÃ©mon,80,89,Golurk,,623,55,80,55,ground,ghost,330,5,0,#N/A
+85,120,Sharp Blade PokÃ©mon,70,45,Pawniard,50,624,40,40,60,dark,steel,10.2,5,0,#N/A
+125,45,Sword Blade PokÃ©mon,100,65,Bisharp,50,625,60,70,70,dark,steel,70,5,0,#N/A
+110,45,Bash Buffalo PokÃ©mon,95,95,Bouffalant,50,626,40,95,55,normal,,94.6,5,0,#N/A
+83,190,Eaglet PokÃ©mon,50,70,Rufflet,100,627,37,50,60,normal,flying,10.5,5,0,#N/A
+123,60,Valiant PokÃ©mon,75,100,Braviary,100,628,57,75,80,normal,flying,41,5,0,#N/A
+55,190,Diapered PokÃ©mon,75,70,Vullaby,0,629,45,65,60,dark,flying,9,5,0,#N/A
+65,60,Bone Vulture PokÃ©mon,105,110,Mandibuzz,0,630,55,95,80,dark,flying,39.5,5,0,#N/A
+97,90,Anteater PokÃ©mon,66,85,Heatmor,50,631,105,66,65,fire,,58,5,0,#N/A
+109,90,Iron Ant PokÃ©mon,112,58,Durant,50,632,48,48,109,bug,steel,33,5,0,#N/A
+65,45,Irate PokÃ©mon,50,52,Deino,50,633,45,50,38,dark,dragon,17.3,5,0,#N/A
+85,45,Hostile PokÃ©mon,70,72,Zweilous,50,634,65,70,58,dark,dragon,50,5,0,#N/A
+105,45,Brutal PokÃ©mon,90,92,Hydreigon,50,635,125,90,98,dark,dragon,160,5,0,#N/A
+85,45,Torch PokÃ©mon,55,55,Larvesta,50,636,50,55,60,bug,fire,28.8,5,0,#N/A
+60,15,Sun PokÃ©mon,65,85,Volcarona,50,637,135,105,100,bug,fire,46,5,0,#N/A
+90,3,Iron Will PokÃ©mon,129,91,Cobalion,,638,90,72,108,steel,fighting,250,5,1,#N/A
+129,3,Cavern PokÃ©mon,90,91,Terrakion,,639,72,90,108,rock,fighting,260,5,1,#N/A
+90,3,Grassland PokÃ©mon,72,91,Virizion,,640,90,129,108,grass,fighting,200,5,1,#N/A
+100,3,Cyclone PokÃ©mon,80,79,Tornadus,100,641,110,90,121,flying,,63,5,1,#N/A
+105,3,Bolt Strike PokÃ©mon,70,79,Thundurus,100,642,145,80,101,electric,flying,61,5,1,#N/A
+120,3,Vast White PokÃ©mon,100,100,Reshiram,,643,150,120,90,dragon,fire,330,5,1,#N/A
+150,3,Deep Black PokÃ©mon,120,100,Zekrom,,644,120,100,90,dragon,electric,345,5,1,#N/A
+145,3,Abundance PokÃ©mon,90,89,Landorus,100,645,105,80,91,ground,flying,68,5,1,#N/A
+120,3,Boundary PokÃ©mon,90,125,Kyurem,,646,170,100,95,dragon,ice,325,5,1,#N/A
+72,3,Colt PokÃ©mon,90,91,Keldeo,,647,129,90,108,water,fighting,48.5,5,1,#N/A
+128,3,Melody PokÃ©mon,90,100,Meloetta,,648,77,77,128,normal,psychic,6.5,5,1,#N/A
+120,3,Paleozoic PokÃ©mon,95,71,Genesect,,649,120,95,99,bug,steel,82.5,5,1,#N/A
+61,45,Spiky Nut PokÃ©mon,65,56,Chespin,88.1,650,48,45,38,grass,,9,6,0,#N/A
+78,45,Spiny Armor PokÃ©mon,95,61,Quilladin,88.1,651,56,58,57,grass,,29,6,0,#N/A
+107,45,Spiny Armor PokÃ©mon,122,88,Chesnaught,88.1,652,74,75,64,grass,fighting,90,6,0,#N/A
+45,45,Fox PokÃ©mon,40,40,Fennekin,88.1,653,62,60,60,fire,,9.4,6,0,#N/A
+59,45,Fox PokÃ©mon,58,59,Braixen,88.1,654,90,70,73,fire,,14.5,6,0,#N/A
+69,45,Fox PokÃ©mon,72,75,Delphox,88.1,655,114,100,104,fire,psychic,39,6,0,#N/A
+56,45,Bubble Frog PokÃ©mon,40,41,Froakie,88.1,656,62,44,71,water,,7,6,0,#N/A
+63,45,Bubble Frog PokÃ©mon,52,54,Frogadier,88.1,657,83,56,97,water,,10.9,6,0,#N/A
+145,45,Ninja PokÃ©mon,67,72,Greninja,88.1,658,153,71,132,water,dark,40,6,0,#N/A
+36,255,Digging PokÃ©mon,38,38,Bunnelby,50,659,32,36,57,normal,,5,6,0,#N/A
+56,127,Digging PokÃ©mon,77,85,Diggersby,50,660,50,77,78,normal,ground,42.4,6,0,#N/A
+50,255,Tiny Robin PokÃ©mon,43,45,Fletchling,50,661,40,38,62,normal,flying,1.7,6,0,#N/A
+73,120,Ember PokÃ©mon,55,62,Fletchinder,50,662,56,52,84,fire,flying,16,6,0,#N/A
+81,45,Scorching PokÃ©mon,71,78,Talonflame,50,663,74,69,126,fire,flying,24.5,6,0,#N/A
+35,255,Scatterdust PokÃ©mon,40,38,Scatterbug,50,664,27,25,35,bug,,2.5,6,0,#N/A
+22,120,Scatterdust PokÃ©mon,60,45,Spewpa,50,665,27,30,29,bug,,8.4,6,0,#N/A
+52,45,Scale PokÃ©mon,50,80,Vivillon,50,666,90,50,89,bug,flying,17,6,0,#N/A
+50,220,Lion Cub PokÃ©mon,58,62,Litleo,11.2,667,73,54,72,fire,normal,13.5,6,0,#N/A
+68,65,Royal PokÃ©mon,72,86,Pyroar,11.2,668,109,66,106,fire,normal,81.5,6,0,#N/A
+38,225,Single Bloom PokÃ©mon,39,44,FlabÃ©bÃ©,0,669,61,79,42,fairy,,0.1,6,0,#N/A
+65,120,Fairy PokÃ©mon,67,74,Floette,0,670,125,128,92,fairy,,0.9,6,0,#N/A
+65,45,Garden PokÃ©mon,68,78,Florges,0,671,112,154,75,fairy,,10,6,0,#N/A
+65,200,Mount PokÃ©mon,48,66,Skiddo,50,672,62,57,52,grass,,31,6,0,#N/A
+100,45,Mount PokÃ©mon,62,123,Gogoat,50,673,97,81,68,grass,,91,6,0,#N/A
+82,220,Playful PokÃ©mon,62,67,Pancham,50,674,46,48,43,fighting,,8,6,0,#N/A
+124,65,Daunting PokÃ©mon,78,95,Pangoro,50,675,69,71,58,fighting,dark,136,6,0,#N/A
+80,160,Poodle PokÃ©mon,60,75,Furfrou,50,676,65,90,102,normal,,28,6,0,#N/A
+48,190,Restraint PokÃ©mon,54,62,Espurr,50,677,63,60,68,psychic,,3.5,6,0,#N/A
+48,75,Constraint PokÃ©mon,76,74,Meowstic,50,678,83,81,104,psychic,,8.5,6,0,#N/A
+80,180,Sword PokÃ©mon,100,45,Honedge,50,679,35,37,28,steel,ghost,2,6,0,#N/A
+110,90,Sword PokÃ©mon,150,59,Doublade,50,680,45,49,35,steel,ghost,4.5,6,0,#N/A
+150,45,Royal Sword PokÃ©mon,50,60,Aegislash,50,681,150,50,60,steel,ghost,53,6,0,#N/A
+52,200,Perfume PokÃ©mon,60,78,Spritzee,50,682,63,65,23,fairy,,0.5,6,0,#N/A
+72,140,Fragrance PokÃ©mon,72,101,Aromatisse,50,683,99,89,29,fairy,,15.5,6,0,#N/A
+48,200,Cotton Candy PokÃ©mon,66,62,Swirlix,50,684,59,57,49,fairy,,3.5,6,0,#N/A
+80,140,Meringue PokÃ©mon,86,82,Slurpuff,50,685,85,75,72,fairy,,5,6,0,#N/A
+54,190,Revolving PokÃ©mon,53,53,Inkay,50,686,37,46,45,dark,psychic,3.5,6,0,#N/A
+92,80,Overturning PokÃ©mon,88,86,Malamar,50,687,68,75,73,dark,psychic,47,6,0,#N/A
+52,120,Two-Handed PokÃ©mon,67,42,Binacle,50,688,39,56,50,rock,water,31,6,0,#N/A
+105,45,Collective PokÃ©mon,115,72,Barbaracle,50,689,54,86,68,rock,water,96,6,0,#N/A
+60,225,Mock Kelp PokÃ©mon,60,50,Skrelp,50,690,60,60,30,poison,water,7.3,6,0,#N/A
+75,55,Mock Kelp PokÃ©mon,90,65,Dragalge,50,691,97,123,44,poison,dragon,81.5,6,0,#N/A
+53,225,Water Gun PokÃ©mon,62,50,Clauncher,50,692,58,63,44,water,,8.3,6,0,#N/A
+73,55,Howitzer PokÃ©mon,88,71,Clawitzer,50,693,120,89,59,water,,35.3,6,0,#N/A
+38,190,Generator PokÃ©mon,33,44,Helioptile,50,694,61,43,70,electric,normal,6,6,0,#N/A
+55,75,Generator PokÃ©mon,52,62,Heliolisk,50,695,109,94,109,electric,normal,21,6,0,#N/A
+89,45,Royal Heir PokÃ©mon,77,58,Tyrunt,88.1,696,45,45,48,rock,dragon,26,6,0,#N/A
+121,45,Despot PokÃ©mon,119,82,Tyrantrum,88.1,697,69,59,71,rock,dragon,270,6,0,#N/A
+59,45,Tundra PokÃ©mon,50,77,Amaura,88.1,698,67,63,46,rock,ice,25.2,6,0,#N/A
+77,45,Tundra PokÃ©mon,72,123,Aurorus,88.1,699,99,92,58,rock,ice,225,6,0,#N/A
+65,45,Intertwining PokÃ©mon,65,95,Sylveon,88.1,700,110,130,60,fairy,,23.5,6,0,#N/A
+92,100,Wrestling PokÃ©mon,75,78,Hawlucha,50,701,74,63,118,fighting,flying,21.5,6,0,#N/A
+58,180,Antenna PokÃ©mon,57,67,Dedenne,50,702,81,67,101,electric,fairy,2.2,6,0,#N/A
+50,60,Jewel PokÃ©mon,150,50,Carbink,,703,50,150,50,rock,fairy,5.7,6,0,#N/A
+50,45,Soft Tissue PokÃ©mon,35,45,Goomy,50,704,55,75,40,dragon,,2.8,6,0,#N/A
+75,45,Soft Tissue PokÃ©mon,53,68,Sliggoo,50,705,83,113,60,dragon,,17.5,6,0,#N/A
+100,45,Dragon PokÃ©mon,70,90,Goodra,50,706,110,150,80,dragon,,150.5,6,0,#N/A
+80,75,Key Ring PokÃ©mon,91,57,Klefki,50,707,80,87,75,steel,fairy,3,6,0,#N/A
+70,120,Stump PokÃ©mon,48,43,Phantump,50,708,50,60,38,ghost,grass,7,6,0,#N/A
+110,60,Elder Tree PokÃ©mon,76,85,Trevenant,50,709,65,82,56,ghost,grass,71,6,0,#N/A
+66,120,Pumpkin PokÃ©mon,70,59,Pumpkaboo,50,710,44,55,41,ghost,grass,15,6,0,#N/A
+100,60,Pumpkin PokÃ©mon,122,85,Gourgeist,50,711,58,75,54,ghost,grass,39,6,0,#N/A
+69,190,Ice Chunk PokÃ©mon,85,55,Bergmite,50,712,32,35,28,ice,,99.5,6,0,#N/A
+117,55,Iceberg PokÃ©mon,184,95,Avalugg,50,713,44,46,28,ice,,505,6,0,#N/A
+30,190,Sound Wave PokÃ©mon,35,40,Noibat,50,714,45,40,55,flying,dragon,8,6,0,#N/A
+70,45,Sound Wave PokÃ©mon,80,85,Noivern,50,715,97,80,123,flying,dragon,85,6,0,#N/A
+131,45,Life PokÃ©mon,95,126,Xerneas,,716,131,98,99,fairy,,215,6,1,#N/A
+131,45,Destruction PokÃ©mon,95,126,Yveltal,,717,131,98,99,dark,flying,203,6,1,#N/A
+100,3,Order PokÃ©mon,121,216,Zygarde,,718,91,95,85,dragon,ground,284.6,6,1,#N/A
+160,3,Jewel PokÃ©mon,110,50,Diancie,,719,160,110,110,rock,fairy,8.8,6,1,#N/A
+160,3,Mischief PokÃ©mon (Confined)Djinn PokÃ©monn (Unbound),60,80,Hoopa,,720,170,130,80,psychic,ghost,,6,1,#N/A
+110,3,Steam PokÃ©mon,120,80,Volcanion,,721,130,90,70,fire,water,195,6,1,#N/A
+55,45,Grass Quill PokÃ©mon,55,68,Rowlet,88.1,722,50,50,42,grass,flying,1.5,7,0,#N/A
+75,45,Blade Quill PokÃ©mon,75,78,Dartrix,88.1,723,70,70,52,grass,flying,16,7,0,#N/A
+107,45,Arrow Quill PokÃ©mon,75,78,Decidueye,88.1,724,100,100,70,grass,ghost,36.6,7,0,#N/A
+65,45,Fire Cat PokÃ©mon,40,45,Litten,88.1,725,60,40,70,fire,,4.3,7,0,#N/A
+85,45,Fire Cat PokÃ©mon,50,65,Torracat,88.1,726,80,50,90,fire,,25,7,0,#N/A
+115,45,Heel PokÃ©mon,90,95,Incineroar,88.1,727,80,90,60,fire,dark,83,7,0,#N/A
+54,45,Sea Lion PokÃ©mon,54,50,Popplio,88.1,728,66,56,40,water,,7.5,7,0,#N/A
+69,45,Pop Star PokÃ©mon,69,60,Brionne,88.1,729,91,81,50,water,,17.5,7,0,#N/A
+74,45,Soloist PokÃ©mon,74,80,Primarina,88.1,730,126,116,60,water,fairy,44,7,0,#N/A
+75,255,Woodpecker PokÃ©mon,30,35,Pikipek,50,731,30,30,65,normal,flying,1.2,7,0,#N/A
+85,120,Bugle Beak PokÃ©mon,50,55,Trumbeak,50,732,40,50,75,normal,flying,14.8,7,0,#N/A
+120,45,Cannon PokÃ©mon,75,80,Toucannon,50,733,75,75,60,normal,flying,26,7,0,#N/A
+70,255,Loitering PokÃ©mon,30,48,Yungoos,50,734,30,30,45,normal,,6,7,0,#N/A
+110,127,Stakeout PokÃ©mon,60,88,Gumshoos,50,735,55,60,45,normal,,14.2,7,0,#N/A
+62,255,Larva PokÃ©mon,45,47,Grubbin,50,736,55,45,46,bug,,4.4,7,0,#N/A
+82,120,Battery PokÃ©mon,95,57,Charjabug,50,737,55,75,36,bug,electric,10.5,7,0,#N/A
+70,45,Stag Beetle PokÃ©mon,90,77,Vikavolt,50,738,145,75,43,bug,electric,45,7,0,#N/A
+82,225,Boxing PokÃ©mon,57,47,Crabrawler,50,739,42,47,63,fighting,,7,7,0,#N/A
+132,60,Woolly Crab PokÃ©mon,77,97,Crabominable,50,740,62,67,43,fighting,ice,180,7,0,#N/A
+70,45,Dancing PokÃ©mon,70,75,Oricorio,24.6,741,98,70,93,fire,flying,3.4,7,0,#N/A
+45,190,Bee Fly PokÃ©mon,40,40,Cutiefly,50,742,55,40,84,bug,fairy,0.2,7,0,#N/A
+55,75,Bee Fly PokÃ©mon,60,60,Ribombee,50,743,95,70,124,bug,fairy,0.5,7,0,#N/A
+65,190,Puppy PokÃ©mon,40,45,Rockruff,50,744,30,40,60,rock,,9.2,7,0,#N/A
+115,90,Wolf PokÃ©mon,75,85,Lycanroc,50,745,55,75,82,rock,,,7,0,#N/A
+140,60,Small Fry PokÃ©mon,130,45,Wishiwashi,50,746,140,135,30,water,,0.3,7,0,#N/A
+53,190,Brutal Star PokÃ©mon,62,50,Mareanie,50,747,43,52,45,poison,water,8,7,0,#N/A
+63,75,Brutal Star PokÃ©mon,152,50,Toxapex,50,748,53,142,35,poison,water,14.5,7,0,#N/A
+100,190,Donkey PokÃ©mon,70,70,Mudbray,50,749,45,55,45,ground,,110,7,0,#N/A
+125,60,Draft Horse PokÃ©mon,100,100,Mudsdale,50,750,55,85,35,ground,,920,7,0,#N/A
+40,200,Water Bubble PokÃ©mon,52,38,Dewpider,50,751,40,72,27,water,bug,4,7,0,#N/A
+70,100,Water Bubble PokÃ©mon,92,68,Araquanid,50,752,50,132,42,water,bug,82,7,0,#N/A
+55,190,Sickle Grass PokÃ©mon,35,40,Fomantis,50,753,50,35,35,grass,,1.5,7,0,#N/A
+105,75,Bloom Sickle PokÃ©mon,90,70,Lurantis,50,754,80,90,45,grass,,18.5,7,0,#N/A
+35,190,Illuminating PokÃ©mon,55,40,Morelull,50,755,65,75,15,grass,fairy,1.5,7,0,#N/A
+45,75,Illuminating PokÃ©mon,80,60,Shiinotic,50,756,90,100,30,grass,fairy,11.5,7,0,#N/A
+44,120,Toxic Lizard PokÃ©mon,40,48,Salandit,88.1,757,71,40,77,poison,fire,4.8,7,0,#N/A
+64,45,Toxic Lizard PokÃ©mon,60,68,Salazzle,0,758,111,60,117,poison,fire,22.2,7,0,#N/A
+75,140,Flailing PokÃ©mon,50,70,Stufful,50,759,45,50,50,normal,fighting,6.8,7,0,#N/A
+125,70,Strong Arm PokÃ©mon,80,120,Bewear,50,760,55,60,60,normal,fighting,135,7,0,#N/A
+30,235,Fruit PokÃ©mon,38,42,Bounsweet,0,761,30,38,32,grass,,3.2,7,0,#N/A
+40,120,Fruit PokÃ©mon,48,52,Steenee,0,762,40,48,62,grass,,8.2,7,0,#N/A
+120,45,Fruit PokÃ©mon,98,72,Tsareena,0,763,50,98,72,grass,,21.4,7,0,#N/A
+52,60,Posy Picker PokÃ©mon,90,51,Comfey,24.6,764,82,110,100,fairy,,0.3,7,0,#N/A
+60,45,Sage PokÃ©mon,80,90,Oranguru,50,765,90,110,60,normal,psychic,76,7,0,#N/A
+120,45,Teamwork PokÃ©mon,90,100,Passimian,50,766,40,60,80,fighting,,82.8,7,0,#N/A
+35,90,Turn Tail PokÃ©mon,40,25,Wimpod,50,767,20,30,80,bug,water,12,7,0,#N/A
+125,45,Hard Scale PokÃ©mon,140,75,Golisopod,50,768,60,90,40,bug,water,108,7,0,#N/A
+55,140,Sand Heap PokÃ©mon,80,55,Sandygast,50,769,70,45,15,ghost,ground,70,7,0,#N/A
+75,60,Sand Castle PokÃ©mon,110,85,Palossand,50,770,100,75,35,ghost,ground,250,7,0,#N/A
+60,60,Sea Cucumber PokÃ©mon,130,55,Pyukumuku,50,771,30,130,5,water,,1.2,7,0,#N/A
+95,3,Synthetic PokÃ©mon,95,95,Type: Null,,772,95,95,59,normal,,120.5,7,0,#N/A
+95,3,Synthetic PokÃ©mon,95,95,Silvally,,773,95,95,95,normal,,100.5,7,0,#N/A
+100,30 (Meteorite)255 (Core),Meteor PokÃ©mon,60,60,Minior,,774,100,60,120,rock,flying,40,7,0,#N/A
+115,45,Drowsing PokÃ©mon,65,65,Komala,50,775,75,95,65,normal,,19.9,7,0,#N/A
+78,70,Blast Turtle PokÃ©mon,135,60,Turtonator,50,776,91,85,36,fire,dragon,212,7,0,#N/A
+98,180,Roly-Poly PokÃ©mon,63,65,Togedemaru,50,777,40,73,96,electric,steel,3.3,7,0,#N/A
+90,45,Disguise PokÃ©mon,80,55,Mimikyu,50,778,50,105,96,ghost,fairy,0.7,7,0,#N/A
+105,80,Gnash Teeth PokÃ©mon,70,68,Bruxish,50,779,70,70,92,water,psychic,19,7,0,#N/A
+60,70,Placid PokÃ©mon,85,78,Drampa,50,780,135,91,36,normal,dragon,185,7,0,#N/A
+131,25,Sea Creeper PokÃ©mon,100,70,Dhelmise,,781,86,90,40,ghost,grass,210,7,0,#N/A
+55,45,Scaly PokÃ©mon,65,45,Jangmo-o,50,782,45,45,45,dragon,,29.7,7,0,#N/A
+75,45,Scaly PokÃ©mon,90,55,Hakamo-o,50,783,65,70,65,dragon,fighting,47,7,0,#N/A
+110,45,Scaly PokÃ©mon,125,75,Kommo-o,50,784,100,105,85,dragon,fighting,78.2,7,0,#N/A
+115,3,Land Spirit PokÃ©mon,85,70,Tapu Koko,,785,95,75,130,electric,fairy,20.5,7,1,#N/A
+85,3,Land Spirit PokÃ©mon,75,70,Tapu Lele,,786,130,115,95,psychic,fairy,18.6,7,1,#N/A
+130,3,Land Spirit PokÃ©mon,115,70,Tapu Bulu,,787,85,95,75,grass,fairy,45.5,7,1,#N/A
+75,3,Land Spirit PokÃ©mon,115,70,Tapu Fini,,788,95,130,85,water,fairy,21.2,7,1,#N/A
+29,45,Nebula PokÃ©mon,31,43,Cosmog,,789,29,31,37,psychic,,0.1,7,1,#N/A
+29,45,Protostar PokÃ©mon,131,43,Cosmoem,,790,29,131,37,psychic,,999.9,7,1,#N/A
+137,45,Sunne PokÃ©mon,107,137,Solgaleo,,791,113,89,97,psychic,steel,230,7,1,#N/A
+113,45,Moone PokÃ©mon,89,137,Lunala,,792,137,107,97,psychic,ghost,120,7,1,#N/A
+53,45,Parasite PokÃ©mon,47,109,Nihilego,,793,127,131,103,rock,poison,55.5,7,1,#N/A
+139,25,Swollen PokÃ©mon,139,107,Buzzwole,,794,53,53,79,bug,fighting,333.6,7,1,#N/A
+137,255,Lissome PokÃ©mon,37,71,Pheromosa,,795,137,37,151,bug,fighting,25,7,1,#N/A
+89,30,Glowing PokÃ©mon,71,83,Xurkitree,,796,173,71,83,electric,,100,7,1,#N/A
+101,25,Launch PokÃ©mon,103,97,Celesteela,,797,107,101,61,steel,flying,999.9,7,1,#N/A
+181,255,Drawn Sword PokÃ©mon,131,59,Kartana,,798,59,31,109,grass,steel,0.1,7,1,#N/A
+101,15,Junkivore PokÃ©mon,53,223,Guzzlord,,799,97,53,43,dark,dragon,888,7,1,#N/A
+107,3,Prism PokÃ©mon,101,97,Necrozma,,800,127,89,79,psychic,,230,7,1,#N/A
+95,3,Artificial PokÃ©mon,115,80,Magearna,,801,130,115,65,steel,fairy,80.5,7,1,#N/A
