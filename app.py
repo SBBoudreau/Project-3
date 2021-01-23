@@ -29,19 +29,24 @@ def load_pokemon_model():
 def process_input(data_url):
     pic_url = data_url
     random_name = str(np.random.randint(5**5))
-    
-    pic_path = tf.keras.utils.get_file(random_name,origin=pic_url)
+
+    if "http" in data_url:
+        pic_path = tf.keras.utils.get_file(random_name,origin=pic_url)
+    else:
+        pic_path = Path(data_url).as_posix()
+
     img = keras.preprocessing.image.load_img(
-        pic_path, target_size=(128,128)
+    pic_path, target_size=(128,128)
     )
+    
 
     img_array = keras.preprocessing.image.img_to_array(img)
     img_array = tf.expand_dims(img_array, 0) # Create a batch
 
     predictions = model.predict(img_array)
-    score = round(100 * np.max(tf.nn.softmax(predictions[0])),2)
+    score = tf.nn.softmax(predictions[0])
 
-    predict = (f"This image most likely belongs to {class_names[np.argmax(score)]} with a {score} percent confidence.")
+    predict = (f"This image most likely belongs to {class_names[np.argmax(score)]} with a {round(100 * np.max(tf.nn.softmax(predictions[0])),2)} percent confidence.")
 
     print(predict)
     
@@ -60,7 +65,7 @@ def index():
     return render_template('index.html')
 
 @app.route('/image', methods=['POST'])
-def image():
+def image2():
     if request.method == 'POST':
         image_url = request.get_data(as_text=True)
         print(image_url)

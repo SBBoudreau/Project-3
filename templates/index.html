@@ -43,19 +43,19 @@
                 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img class="d-block w-90" src="../dataset/Weedle/6c57bba3252846e0a604aa585eaad7b9.jpg" alt="Weedle">
+                        <img class="d-block w-90" src="../static/img/4b8beb8543974b00b9bd7c41e57a4d47.jpg" alt="Weedle">
                       </div>
                       <div class="carousel-item">
-                        <img class="d-block w-90" src="../dataset/Clefable/04fba859a3f04ca1ae3b6fc54f4cb9bd.jpg" alt="Clefable">
+                        <img class="d-block w-90" src="../static/img/04fba859a3f04ca1ae3b6fc54f4cb9bd.jpg" alt="Clefable">
                       </div>
                       <div class="carousel-item">
-                        <img class="d-block w-90" src="../dataset/Wartortle/0448e4da6f1540c896827e6b4e1e7660.jpg" alt="Wartortle">
+                        <img class="d-block w-90" src="../static/img/0448e4da6f1540c896827e6b4e1e7660.jpg" alt="Wartortle">
                       </div>
                       <div class="carousel-item">
-                        <img class="d-block w-90" src="../dataset/Pikachu/80656364b8714f7cb66e14c19ad42b26.jpg" alt="Pikachu">
+                        <img class="d-block w-90" src="../static/img/80656364b8714f7cb66e14c19ad42b26.jpg" alt="Pikachu">
                       </div>
                       <div class="carousel-item">
-                        <img class="d-block w-90" src="../dataset/Charmander/4e37157e3877445b93b6f1926a426fd3.jpg" alt="Charmander">
+                        <img class="d-block w-90" src="../static/img/4e37157e3877445b93b6f1926a426fd3.jpg" alt="Charmander">
                       </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -78,7 +78,7 @@
                     </div>
                     <!-- Find Pokemon button Subheading-->
                     <div style="text-align: center;">
-                        <button class="btn btn-secondary btn-lg" id="clickMe"> FIND POKEMON </button>
+                        <a class="btn btn-secondary btn-lg" href="#portfolio" id="clickMe"> FIND POKEMON </a>
                     </div>
             </div>
         </header>
@@ -86,7 +86,7 @@
         <section class="page-section portfolio" id="portfolio">
             <div class="container">
                 <!-- Portfolio Section Heading-->
-                <h3 class="page-section-heading text-center text-uppercase text-secondary mb-0" id="pokemon_pred">Name that pokemon! </h3>
+                <h3 class="page-section-heading text-center text-uppercase text-secondary mb-0" id="pokemon_pred">Name that Pokemon! </h3>
                 <!-- Icon Divider-->
                 <div class="divider-custom">
                     <div class="divider-custom-line"></div>
@@ -208,11 +208,11 @@
         <!-- Contact form JS-->
         <script src="../assets/mail/jqBootstrapValidation.js"></script>
         <script src="../assets/mail/contact_me.js"></script>
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
         <!-- Core theme JS-->
         <script src="{{url_for('static', filename='/js/scripts.js')}}"></script>
         <script src="{{url_for('static', filename='/js/pokedex.js')}}"></script>
         <script src="https://d3js.org/d3.v5.min.js" charset="utf-8"></script>
-        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
         <script src="https://d3js.org/d3-selection.v1.min.js" charset="utf-8"></script>
     </body>
 </html>
