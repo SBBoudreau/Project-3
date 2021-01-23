@@ -21,9 +21,7 @@ RCNN with Inception v2 model
 
 Ideas for visualizations that you would like to include:
 Tableau Story – 
-	Model Summary?
-	Training and Validation Accuracy 
-	Which colors does Waldo appear the most with?
-	Where is he most likely to appear (conner left side, center, etc)
-	Avg size of Waldo in page
-	Which settings is Waldo harder to find him?
+	Pokemon Stats
+![alttext](https://public.tableau.com/shared/YWX53RKDG?:toolbar=n&:display_count=y&:origin=viz_share_link)
+
+
