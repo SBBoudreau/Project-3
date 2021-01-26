@@ -73,9 +73,6 @@ def image2():
         value = data
         return jsonify({"prediction":data})
 
-@app.before_first_request
-def setup():
-    load_model()
 
 if __name__ == "__main__":
     load_pokemon_model()

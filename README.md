@@ -8,7 +8,7 @@ Pokemon
 Data Sources:
 https://www.kaggle.com/thedagger/pokemon-generation-one
 https://github.com/nagarajbhat/dash-pokemon/blob/master/data/pokemon.csv
-
+https://www.kaggle.com/rounakbanik/pokemon
 
 Type of ML Analysis:
 Categorical 
