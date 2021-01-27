@@ -1,6 +1,6 @@
 # Project-3
 Group Name:
-Got to catch ‘em all!
+Gotta Catch ‘Em All!
 
 Topic: 
 Pokemon
